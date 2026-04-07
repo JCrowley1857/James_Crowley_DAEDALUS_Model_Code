@@ -1,0 +1,15 @@
+This script is made to train the Gated VAE on the dataset of admissible PDEs. The model learns a compressed latent representation of the structure of these governing PDEs.
+
+Main Functionality:
+1. The model architecture is defined, with the latent dimension set at 11, and the layers for the encoder and decoder being: 256 -> 128 -> 64, and 64 -> 128 -> 256 respectively.
+2. The script then loads the learned training dataset and defines the number of training rounds to perform (epochs) as well as the batch size and learning rate.
+3. The Beta term is defined under KL annealing where the value gradually ramps up to the final value of 0.1 over 80 epochs.
+4. Each training loop passes the training dataset through the model and computes and prints the loss functions for each loop/epoch, optimising the weights after each training epoch.
+5. Once complete, the script saves the model weights and parameters.
+
+Outputs:
+1. Trained Gated VAE model on the training dataset for use as a prior distribution in Bayesian inference of governing equations from observed data.
+
+Requirements:
+1. PyTorch
+2. NumPy

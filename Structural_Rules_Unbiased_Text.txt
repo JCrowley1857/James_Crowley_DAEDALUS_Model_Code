@@ -1,0 +1,12 @@
+This script defines how the original candidate of 15 million+ PDE structures were generated, introducing sparsity and relationships between derivative orders.
+
+Main Functionality:
+1. Generates PDE structures with each column representing an indexed derivative order.
+2. Controls the number of linear and nonlinear terms and introduces sparsity amongst the equations
+3. Ensures uniqueness by removing any duplicates
+
+Outputs:
+1. Creates the candidate library of PDE binary structures with limited constraints, providing structural data for filtering.
+
+Requirements:
+1. Numpy

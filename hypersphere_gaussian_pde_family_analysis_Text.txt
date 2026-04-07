@@ -1,0 +1,19 @@
+This script is used to analyse how well the train VAE has learned the space of PDEs by sampling from the latent space from using two methods.
+
+Main Functionality:
+1. Loads the trained VAE model and dataset and converts the dataset into binary structure only.
+2. Computes all the theoretical PDEs through enumeration across all the possible binary candidates.
+3. The latent space is then sampled using Gaussian and Uniform ball sampling and these samples are decoded into PDE structures.
+4. Finally analysis is carried out by this script to determine:
+	(i) How many of the training PDE structures were rediscovered in the samples,
+	(ii) Determines the number of novel structures found from sampling that were not present in the training dataset,
+	(iii) Determines the number of samples that obey the constrains imposed on the dataset,
+	(iv) Gives a breakdown of the number of each defined PDE family/group present within the admissible samples,
+	(v) Compares the generated PDEs to the theoretical PDEs to determine if the VAE is capable of generalisation.
+
+Outputs:
+1. Writes any missing and novel PDEs to text files and compares the learned latent space to the theoretical space.
+
+Requirements:
+1. PyTorch
+2. NumPy

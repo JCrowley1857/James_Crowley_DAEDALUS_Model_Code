@@ -1,0 +1,15 @@
+This script filters the large candidate library of plausible PDEs from 15 million+ -> 2,899 exactly. It imposes constraints on the structural conditions of these admissible equations that greatly reduce the number of valid equations. It also then enforces valid coefficients on both the first- and second-order spatial derivatives.
+
+Main Functionality:
+1. Defines the library of 67 PDE terms, which features linear and polynomial combinations of linear terms to make nonlinear terms.
+2. Generates the candidate library of PDE equations using the Structural_Rules_Unbiased.py script.
+3. Applies the constraints to remove invalid PDE structures - the list of constraints is outlined in the DAEDALUS model section in the thesis.
+4. Assigns the coefficients to first- and second-order terms, ensuring positive definitiveness is achieved for the coefficients of the second-order terms.
+5. A final filtering process is carried out to ensure that all equations remain valid post-coefficient assignment.
+6. Finally the matrix of admissible equations is saved to paths.
+
+Outputs:
+1. A matrix of admissible equations for use in training the Gated VAE.
+
+Requirements:
+1. NumPy

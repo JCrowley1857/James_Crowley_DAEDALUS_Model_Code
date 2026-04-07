@@ -1,0 +1,17 @@
+This script defines the architecture of the Gated VAE (Variational Autoencoder) used to train the DAEDALUS model.
+
+Main Functionality:
+1. Defines the encoder that compresses inputs into latent space - outputs: mean (mu) and log-variance (logvar).
+2. Defines the 11D latent space representation of PDEs, utilising reparameterisation trick to sample for the decoder.
+3. Defines the decoder that reconstructs the PDE from the latent vector - Outputs: Binary logits, Gate logits and Continuous parameters.
+4. Includes a Gating mechanism to indicate whether continuous values are active.
+5. Loss function is made up of: BCE (Binary Cross Entropy), Gate prediction loss, NLL (Negative Log-Likelihood) and Beta*Kl Divergence (Beta is the weighting term that ensures not too much focus on adhering to a Gaussian normal distribution).
+6. Converts PDEs to strings so they can be viewed when visualised.
+
+Outputs:
+1. Defines the architecture for learning the structure of PDEs.
+
+Requirements:
+1. PyTorch
+2. NumPy
+

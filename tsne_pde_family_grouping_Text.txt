@@ -1,0 +1,17 @@
+This script is used to visualise the 11D latent manifold into a 2D space using the t-SNE plot method. It helps to analyse how the latent space is clustered/grouped.
+
+Main Functionality:
+1. Reloads the model and the training data, encodes the PDEs into the latent space and applies the t-SNE to reduce the latent space from 11D to 2D.
+2. Classifies each encoded PDE into their respective PDE family (1) Elliptic (2) Parabolic (3) Hyperbolic (4) First-Order Time-Dependent (5) First-Order Steady-State.
+3. Creates tow visuals of the 2D space, one showing the terms coloured by the number of active terms i.e. the complexity of the PDE, and the other showing the terms coloured by what PDE family they are associated with.
+4. The user can hover over points and then see which PDE it is.
+
+Outputs:
+1. 2 plots of the 2D compressed latent space for analysis purposes.
+
+Requirements:
+1. PyTorch
+2. NumPy
+3. Matplotlib
+4. sklearn (t-SNE)
+5. mplcursors
