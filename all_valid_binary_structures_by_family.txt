@@ -1,0 +1,2959 @@
+ALL THEORETICALLY VALID BINARY PDE STRUCTURES
+Total structures: 2926
+
+=====================================================
+FAMILY: elliptic   (count = 1311)
+=====================================================
+
+    0 : 1Uzz + UU
+    1 : 1Uyy + UU
+    2 : 1Uyy +1Uzz
+    3 : 1Uyy +1Uzz + UU
+    4 : 1Uyy +1Uzz +1Uyz
+    5 : 1Uyy +1Uzz +1Uyz + UU
+    6 : 1Uxx + UU
+    7 : 1Uxx +1Uzz
+    8 : 1Uxx +1Uzz + UU
+    9 : 1Uxx +1Uzz +1Uxz
+   10 : 1Uxx +1Uzz +1Uxz + UU
+   11 : 1Uxx +1Uyy
+   12 : 1Uxx +1Uyy + UU
+   13 : 1Uxx +1Uyy +1Uxy
+   14 : 1Uxx +1Uyy +1Uxy + UU
+   15 : 1Uxx +1Uyy +1Uzz
+   16 : 1Uxx +1Uyy +1Uzz + UU
+   17 : 1Uxx +1Uyy +1Uzz +1Uyz
+   18 : 1Uxx +1Uyy +1Uzz +1Uyz + UU
+   19 : 1Uxx +1Uyy +1Uzz +1Uxz
+   20 : 1Uxx +1Uyy +1Uzz +1Uxz + UU
+   21 : 1Uxx +1Uyy +1Uzz +1Uxz +1Uyz
+   22 : 1Uxx +1Uyy +1Uzz +1Uxz +1Uyz + UU
+   23 : 1Uxx +1Uyy +1Uzz +1Uxy
+   24 : 1Uxx +1Uyy +1Uzz +1Uxy + UU
+   25 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uyz
+   26 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uyz + UU
+   27 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uxz
+   28 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uxz + UU
+   29 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uxz +1Uyz
+   30 : 1Uz +1Uzz
+   31 : 1Uz +1Uzz + UzzUzz
+   32 : 1Uz +1Uzz + UzUzz
+   33 : 1Uz +1Uzz + UzUz
+   34 : 1Uz +1Uzz + UUzz
+   35 : 1Uz +1Uzz + UUz
+   36 : 1Uz +1Uzz + UU
+   37 : 1Uz +1Uyy
+   38 : 1Uz +1Uyy + UzUz
+   39 : 1Uz +1Uyy + UUz
+   40 : 1Uz +1Uyy + UU
+   41 : 1Uz +1Uyy +1Uzz
+   42 : 1Uz +1Uyy +1Uzz + UzzUzz
+   43 : 1Uz +1Uyy +1Uzz + UzUzz
+   44 : 1Uz +1Uyy +1Uzz + UzUz
+   45 : 1Uz +1Uyy +1Uzz + UUzz
+   46 : 1Uz +1Uyy +1Uzz + UUz
+   47 : 1Uz +1Uyy +1Uzz + UU
+   48 : 1Uz +1Uyy +1Uzz +1Uyz
+   49 : 1Uz +1Uyy +1Uzz +1Uyz + UzzUzz
+   50 : 1Uz +1Uyy +1Uzz +1Uyz + UzUzz
+   51 : 1Uz +1Uyy +1Uzz +1Uyz + UzUz
+   52 : 1Uz +1Uyy +1Uzz +1Uyz + UUzz
+   53 : 1Uz +1Uyy +1Uzz +1Uyz + UUz
+   54 : 1Uz +1Uyy +1Uzz +1Uyz + UU
+   55 : 1Uz +1Uxx
+   56 : 1Uz +1Uxx + UzUz
+   57 : 1Uz +1Uxx + UUz
+   58 : 1Uz +1Uxx + UU
+   59 : 1Uz +1Uxx +1Uzz
+   60 : 1Uz +1Uxx +1Uzz + UzzUzz
+   61 : 1Uz +1Uxx +1Uzz + UzUzz
+   62 : 1Uz +1Uxx +1Uzz + UzUz
+   63 : 1Uz +1Uxx +1Uzz + UUzz
+   64 : 1Uz +1Uxx +1Uzz + UUz
+   65 : 1Uz +1Uxx +1Uzz + UU
+   66 : 1Uz +1Uxx +1Uzz +1Uxz
+   67 : 1Uz +1Uxx +1Uzz +1Uxz + UzzUzz
+   68 : 1Uz +1Uxx +1Uzz +1Uxz + UzUzz
+   69 : 1Uz +1Uxx +1Uzz +1Uxz + UzUz
+   70 : 1Uz +1Uxx +1Uzz +1Uxz + UUzz
+   71 : 1Uz +1Uxx +1Uzz +1Uxz + UUz
+   72 : 1Uz +1Uxx +1Uzz +1Uxz + UU
+   73 : 1Uz +1Uxx +1Uyy
+   74 : 1Uz +1Uxx +1Uyy + UzUz
+   75 : 1Uz +1Uxx +1Uyy + UUz
+   76 : 1Uz +1Uxx +1Uyy + UU
+   77 : 1Uz +1Uxx +1Uyy +1Uxy
+   78 : 1Uz +1Uxx +1Uyy +1Uxy + UzUz
+   79 : 1Uz +1Uxx +1Uyy +1Uxy + UUz
+   80 : 1Uz +1Uxx +1Uyy +1Uxy + UU
+   81 : 1Uz +1Uxx +1Uyy +1Uzz
+   82 : 1Uz +1Uxx +1Uyy +1Uzz + UzzUzz
+   83 : 1Uz +1Uxx +1Uyy +1Uzz + UzUzz
+   84 : 1Uz +1Uxx +1Uyy +1Uzz + UzUz
+   85 : 1Uz +1Uxx +1Uyy +1Uzz + UUzz
+   86 : 1Uz +1Uxx +1Uyy +1Uzz + UUz
+   87 : 1Uz +1Uxx +1Uyy +1Uzz + UU
+   88 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz
+   89 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UzzUzz
+   90 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UzUzz
+   91 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UzUz
+   92 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UUzz
+   93 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UUz
+   94 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + UU
+   95 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz
+   96 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UzzUzz
+   97 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UzUzz
+   98 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UzUz
+   99 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UUzz
+  100 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UUz
+  101 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + UU
+  102 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz +1Uyz
+  103 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy
+  104 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UzzUzz
+  105 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UzUzz
+  106 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UzUz
+  107 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UUzz
+  108 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UUz
+  109 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + UU
+  110 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy +1Uyz
+  111 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy +1Uxz
+  112 : 1Uy +1Uzz
+  113 : 1Uy +1Uzz + UyUy
+  114 : 1Uy +1Uzz + UUy
+  115 : 1Uy +1Uzz + UU
+  116 : 1Uy +1Uyy
+  117 : 1Uy +1Uyy + UyyUyy
+  118 : 1Uy +1Uyy + UyUyy
+  119 : 1Uy +1Uyy + UyUy
+  120 : 1Uy +1Uyy + UUyy
+  121 : 1Uy +1Uyy + UUy
+  122 : 1Uy +1Uyy + UU
+  123 : 1Uy +1Uyy +1Uzz
+  124 : 1Uy +1Uyy +1Uzz + UyyUyy
+  125 : 1Uy +1Uyy +1Uzz + UyUyy
+  126 : 1Uy +1Uyy +1Uzz + UyUy
+  127 : 1Uy +1Uyy +1Uzz + UUyy
+  128 : 1Uy +1Uyy +1Uzz + UUy
+  129 : 1Uy +1Uyy +1Uzz + UU
+  130 : 1Uy +1Uyy +1Uzz +1Uyz
+  131 : 1Uy +1Uyy +1Uzz +1Uyz + UyzUyz
+  132 : 1Uy +1Uyy +1Uzz +1Uyz + UyyUyz
+  133 : 1Uy +1Uyy +1Uzz +1Uyz + UyyUyy
+  134 : 1Uy +1Uyy +1Uzz +1Uyz + UyUyz
+  135 : 1Uy +1Uyy +1Uzz +1Uyz + UyUyy
+  136 : 1Uy +1Uyy +1Uzz +1Uyz + UyUy
+  137 : 1Uy +1Uyy +1Uzz +1Uyz + UUyz
+  138 : 1Uy +1Uyy +1Uzz +1Uyz + UUyy
+  139 : 1Uy +1Uyy +1Uzz +1Uyz + UUy
+  140 : 1Uy +1Uyy +1Uzz +1Uyz + UU
+  141 : 1Uy +1Uxx
+  142 : 1Uy +1Uxx + UyUy
+  143 : 1Uy +1Uxx + UUy
+  144 : 1Uy +1Uxx + UU
+  145 : 1Uy +1Uxx +1Uzz
+  146 : 1Uy +1Uxx +1Uzz + UyUy
+  147 : 1Uy +1Uxx +1Uzz + UUy
+  148 : 1Uy +1Uxx +1Uzz + UU
+  149 : 1Uy +1Uxx +1Uzz +1Uxz
+  150 : 1Uy +1Uxx +1Uzz +1Uxz + UyUy
+  151 : 1Uy +1Uxx +1Uzz +1Uxz + UUy
+  152 : 1Uy +1Uxx +1Uzz +1Uxz + UU
+  153 : 1Uy +1Uxx +1Uyy
+  154 : 1Uy +1Uxx +1Uyy + UyyUyy
+  155 : 1Uy +1Uxx +1Uyy + UyUyy
+  156 : 1Uy +1Uxx +1Uyy + UyUy
+  157 : 1Uy +1Uxx +1Uyy + UUyy
+  158 : 1Uy +1Uxx +1Uyy + UUy
+  159 : 1Uy +1Uxx +1Uyy + UU
+  160 : 1Uy +1Uxx +1Uyy +1Uxy
+  161 : 1Uy +1Uxx +1Uyy +1Uxy + UyyUyy
+  162 : 1Uy +1Uxx +1Uyy +1Uxy + UyUyy
+  163 : 1Uy +1Uxx +1Uyy +1Uxy + UyUy
+  164 : 1Uy +1Uxx +1Uyy +1Uxy + UUyy
+  165 : 1Uy +1Uxx +1Uyy +1Uxy + UUy
+  166 : 1Uy +1Uxx +1Uyy +1Uxy + UU
+  167 : 1Uy +1Uxx +1Uyy +1Uzz
+  168 : 1Uy +1Uxx +1Uyy +1Uzz + UyyUyy
+  169 : 1Uy +1Uxx +1Uyy +1Uzz + UyUyy
+  170 : 1Uy +1Uxx +1Uyy +1Uzz + UyUy
+  171 : 1Uy +1Uxx +1Uyy +1Uzz + UUyy
+  172 : 1Uy +1Uxx +1Uyy +1Uzz + UUy
+  173 : 1Uy +1Uxx +1Uyy +1Uzz + UU
+  174 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz
+  175 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyzUyz
+  176 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyyUyz
+  177 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyyUyy
+  178 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyUyz
+  179 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyUyy
+  180 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UyUy
+  181 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UUyz
+  182 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UUyy
+  183 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UUy
+  184 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + UU
+  185 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz
+  186 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UyyUyy
+  187 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UyUyy
+  188 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UyUy
+  189 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UUyy
+  190 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UUy
+  191 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + UU
+  192 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz +1Uyz
+  193 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy
+  194 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UyyUyy
+  195 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UyUyy
+  196 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UyUy
+  197 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UUyy
+  198 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UUy
+  199 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + UU
+  200 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy +1Uyz
+  201 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy +1Uxz
+  202 : 1Uy +1Uz +1Uzz
+  203 : 1Uy +1Uz +1Uzz + UzzUzz
+  204 : 1Uy +1Uz +1Uzz + UzUzz
+  205 : 1Uy +1Uz +1Uzz + UzUz
+  206 : 1Uy +1Uz +1Uzz + UyUzz
+  207 : 1Uy +1Uz +1Uzz + UyUz
+  208 : 1Uy +1Uz +1Uzz + UyUy
+  209 : 1Uy +1Uz +1Uzz + UUzz
+  210 : 1Uy +1Uz +1Uzz + UUz
+  211 : 1Uy +1Uz +1Uzz + UUy
+  212 : 1Uy +1Uz +1Uzz + UU
+  213 : 1Uy +1Uz +1Uyy
+  214 : 1Uy +1Uz +1Uyy + UyyUyy
+  215 : 1Uy +1Uz +1Uyy + UzUyy
+  216 : 1Uy +1Uz +1Uyy + UzUz
+  217 : 1Uy +1Uz +1Uyy + UyUyy
+  218 : 1Uy +1Uz +1Uyy + UyUz
+  219 : 1Uy +1Uz +1Uyy + UyUy
+  220 : 1Uy +1Uz +1Uyy + UUyy
+  221 : 1Uy +1Uz +1Uyy + UUz
+  222 : 1Uy +1Uz +1Uyy + UUy
+  223 : 1Uy +1Uz +1Uyy + UU
+  224 : 1Uy +1Uz +1Uyy +1Uzz
+  225 : 1Uy +1Uz +1Uyy +1Uzz + UzzUzz
+  226 : 1Uy +1Uz +1Uyy +1Uzz + UyyUzz
+  227 : 1Uy +1Uz +1Uyy +1Uzz + UyyUyy
+  228 : 1Uy +1Uz +1Uyy +1Uzz + UzUzz
+  229 : 1Uy +1Uz +1Uyy +1Uzz + UzUyy
+  230 : 1Uy +1Uz +1Uyy +1Uzz + UzUz
+  231 : 1Uy +1Uz +1Uyy +1Uzz + UyUzz
+  232 : 1Uy +1Uz +1Uyy +1Uzz + UyUyy
+  233 : 1Uy +1Uz +1Uyy +1Uzz + UyUz
+  234 : 1Uy +1Uz +1Uyy +1Uzz + UyUy
+  235 : 1Uy +1Uz +1Uyy +1Uzz + UUzz
+  236 : 1Uy +1Uz +1Uyy +1Uzz + UUyy
+  237 : 1Uy +1Uz +1Uyy +1Uzz + UUz
+  238 : 1Uy +1Uz +1Uyy +1Uzz + UUy
+  239 : 1Uy +1Uz +1Uyy +1Uzz + UU
+  240 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz
+  241 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyzUyz
+  242 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzzUyz
+  243 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzzUzz
+  244 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyyUyz
+  245 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyyUzz
+  246 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyyUyy
+  247 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzUyz
+  248 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzUzz
+  249 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzUyy
+  250 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UzUz
+  251 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyUyz
+  252 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyUzz
+  253 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyUyy
+  254 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyUz
+  255 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UyUy
+  256 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UUyz
+  257 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UUzz
+  258 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UUyy
+  259 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UUz
+  260 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UUy
+  261 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + UU
+  262 : 1Uy +1Uz +1Uxx
+  263 : 1Uy +1Uz +1Uxx + UzUz
+  264 : 1Uy +1Uz +1Uxx + UyUz
+  265 : 1Uy +1Uz +1Uxx + UyUy
+  266 : 1Uy +1Uz +1Uxx + UUz
+  267 : 1Uy +1Uz +1Uxx + UUy
+  268 : 1Uy +1Uz +1Uxx + UU
+  269 : 1Uy +1Uz +1Uxx +1Uzz
+  270 : 1Uy +1Uz +1Uxx +1Uzz + UzzUzz
+  271 : 1Uy +1Uz +1Uxx +1Uzz + UzUzz
+  272 : 1Uy +1Uz +1Uxx +1Uzz + UzUz
+  273 : 1Uy +1Uz +1Uxx +1Uzz + UyUzz
+  274 : 1Uy +1Uz +1Uxx +1Uzz + UyUz
+  275 : 1Uy +1Uz +1Uxx +1Uzz + UyUy
+  276 : 1Uy +1Uz +1Uxx +1Uzz + UUzz
+  277 : 1Uy +1Uz +1Uxx +1Uzz + UUz
+  278 : 1Uy +1Uz +1Uxx +1Uzz + UUy
+  279 : 1Uy +1Uz +1Uxx +1Uzz + UU
+  280 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz
+  281 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UzzUzz
+  282 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UzUzz
+  283 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UzUz
+  284 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UyUzz
+  285 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UyUz
+  286 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UyUy
+  287 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UUzz
+  288 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UUz
+  289 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UUy
+  290 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + UU
+  291 : 1Uy +1Uz +1Uxx +1Uyy
+  292 : 1Uy +1Uz +1Uxx +1Uyy + UyyUyy
+  293 : 1Uy +1Uz +1Uxx +1Uyy + UzUyy
+  294 : 1Uy +1Uz +1Uxx +1Uyy + UzUz
+  295 : 1Uy +1Uz +1Uxx +1Uyy + UyUyy
+  296 : 1Uy +1Uz +1Uxx +1Uyy + UyUz
+  297 : 1Uy +1Uz +1Uxx +1Uyy + UyUy
+  298 : 1Uy +1Uz +1Uxx +1Uyy + UUyy
+  299 : 1Uy +1Uz +1Uxx +1Uyy + UUz
+  300 : 1Uy +1Uz +1Uxx +1Uyy + UUy
+  301 : 1Uy +1Uz +1Uxx +1Uyy + UU
+  302 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy
+  303 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UyyUyy
+  304 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UzUyy
+  305 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UzUz
+  306 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UyUyy
+  307 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UyUz
+  308 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UyUy
+  309 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UUyy
+  310 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UUz
+  311 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UUy
+  312 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + UU
+  313 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz
+  314 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UzzUzz
+  315 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyyUzz
+  316 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyyUyy
+  317 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UzUzz
+  318 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UzUyy
+  319 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UzUz
+  320 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyUzz
+  321 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyUyy
+  322 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyUz
+  323 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UyUy
+  324 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UUzz
+  325 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UUyy
+  326 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UUz
+  327 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UUy
+  328 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + UU
+  329 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz +1Uyz
+  330 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz +1Uxz
+  331 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz +1Uxy
+  332 : 1Ux +1Uzz
+  333 : 1Ux +1Uzz + UxUx
+  334 : 1Ux +1Uzz + UUx
+  335 : 1Ux +1Uzz + UU
+  336 : 1Ux +1Uyy
+  337 : 1Ux +1Uyy + UxUx
+  338 : 1Ux +1Uyy + UUx
+  339 : 1Ux +1Uyy + UU
+  340 : 1Ux +1Uyy +1Uzz
+  341 : 1Ux +1Uyy +1Uzz + UxUx
+  342 : 1Ux +1Uyy +1Uzz + UUx
+  343 : 1Ux +1Uyy +1Uzz + UU
+  344 : 1Ux +1Uyy +1Uzz +1Uyz
+  345 : 1Ux +1Uyy +1Uzz +1Uyz + UxUx
+  346 : 1Ux +1Uyy +1Uzz +1Uyz + UUx
+  347 : 1Ux +1Uyy +1Uzz +1Uyz + UU
+  348 : 1Ux +1Uxx
+  349 : 1Ux +1Uxx + UxxUxx
+  350 : 1Ux +1Uxx + UxUxx
+  351 : 1Ux +1Uxx + UxUx
+  352 : 1Ux +1Uxx + UUxx
+  353 : 1Ux +1Uxx + UUx
+  354 : 1Ux +1Uxx + UU
+  355 : 1Ux +1Uxx +1Uzz
+  356 : 1Ux +1Uxx +1Uzz + UxxUxx
+  357 : 1Ux +1Uxx +1Uzz + UxUxx
+  358 : 1Ux +1Uxx +1Uzz + UxUx
+  359 : 1Ux +1Uxx +1Uzz + UUxx
+  360 : 1Ux +1Uxx +1Uzz + UUx
+  361 : 1Ux +1Uxx +1Uzz + UU
+  362 : 1Ux +1Uxx +1Uzz +1Uxz
+  363 : 1Ux +1Uxx +1Uzz +1Uxz + UxzUxz
+  364 : 1Ux +1Uxx +1Uzz +1Uxz + UxxUxz
+  365 : 1Ux +1Uxx +1Uzz +1Uxz + UxxUxx
+  366 : 1Ux +1Uxx +1Uzz +1Uxz + UxUxz
+  367 : 1Ux +1Uxx +1Uzz +1Uxz + UxUxx
+  368 : 1Ux +1Uxx +1Uzz +1Uxz + UxUx
+  369 : 1Ux +1Uxx +1Uzz +1Uxz + UUxz
+  370 : 1Ux +1Uxx +1Uzz +1Uxz + UUxx
+  371 : 1Ux +1Uxx +1Uzz +1Uxz + UUx
+  372 : 1Ux +1Uxx +1Uzz +1Uxz + UU
+  373 : 1Ux +1Uxx +1Uyy
+  374 : 1Ux +1Uxx +1Uyy + UxxUxx
+  375 : 1Ux +1Uxx +1Uyy + UxUxx
+  376 : 1Ux +1Uxx +1Uyy + UxUx
+  377 : 1Ux +1Uxx +1Uyy + UUxx
+  378 : 1Ux +1Uxx +1Uyy + UUx
+  379 : 1Ux +1Uxx +1Uyy + UU
+  380 : 1Ux +1Uxx +1Uyy +1Uxy
+  381 : 1Ux +1Uxx +1Uyy +1Uxy + UxyUxy
+  382 : 1Ux +1Uxx +1Uyy +1Uxy + UxxUxy
+  383 : 1Ux +1Uxx +1Uyy +1Uxy + UxxUxx
+  384 : 1Ux +1Uxx +1Uyy +1Uxy + UxUxy
+  385 : 1Ux +1Uxx +1Uyy +1Uxy + UxUxx
+  386 : 1Ux +1Uxx +1Uyy +1Uxy + UxUx
+  387 : 1Ux +1Uxx +1Uyy +1Uxy + UUxy
+  388 : 1Ux +1Uxx +1Uyy +1Uxy + UUxx
+  389 : 1Ux +1Uxx +1Uyy +1Uxy + UUx
+  390 : 1Ux +1Uxx +1Uyy +1Uxy + UU
+  391 : 1Ux +1Uxx +1Uyy +1Uzz
+  392 : 1Ux +1Uxx +1Uyy +1Uzz + UxxUxx
+  393 : 1Ux +1Uxx +1Uyy +1Uzz + UxUxx
+  394 : 1Ux +1Uxx +1Uyy +1Uzz + UxUx
+  395 : 1Ux +1Uxx +1Uyy +1Uzz + UUxx
+  396 : 1Ux +1Uxx +1Uyy +1Uzz + UUx
+  397 : 1Ux +1Uxx +1Uyy +1Uzz + UU
+  398 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz
+  399 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UxxUxx
+  400 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UxUxx
+  401 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UxUx
+  402 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UUxx
+  403 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UUx
+  404 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + UU
+  405 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz
+  406 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxzUxz
+  407 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxxUxz
+  408 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxxUxx
+  409 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxUxz
+  410 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxUxx
+  411 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UxUx
+  412 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UUxz
+  413 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UUxx
+  414 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UUx
+  415 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + UU
+  416 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz +1Uyz
+  417 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy
+  418 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxyUxy
+  419 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxxUxy
+  420 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxxUxx
+  421 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxUxy
+  422 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxUxx
+  423 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UxUx
+  424 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UUxy
+  425 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UUxx
+  426 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UUx
+  427 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + UU
+  428 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy +1Uyz
+  429 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy +1Uxz
+  430 : 1Ux +1Uz +1Uzz
+  431 : 1Ux +1Uz +1Uzz + UzzUzz
+  432 : 1Ux +1Uz +1Uzz + UzUzz
+  433 : 1Ux +1Uz +1Uzz + UzUz
+  434 : 1Ux +1Uz +1Uzz + UxUzz
+  435 : 1Ux +1Uz +1Uzz + UxUz
+  436 : 1Ux +1Uz +1Uzz + UxUx
+  437 : 1Ux +1Uz +1Uzz + UUzz
+  438 : 1Ux +1Uz +1Uzz + UUz
+  439 : 1Ux +1Uz +1Uzz + UUx
+  440 : 1Ux +1Uz +1Uzz + UU
+  441 : 1Ux +1Uz +1Uyy
+  442 : 1Ux +1Uz +1Uyy + UzUz
+  443 : 1Ux +1Uz +1Uyy + UxUz
+  444 : 1Ux +1Uz +1Uyy + UxUx
+  445 : 1Ux +1Uz +1Uyy + UUz
+  446 : 1Ux +1Uz +1Uyy + UUx
+  447 : 1Ux +1Uz +1Uyy + UU
+  448 : 1Ux +1Uz +1Uyy +1Uzz
+  449 : 1Ux +1Uz +1Uyy +1Uzz + UzzUzz
+  450 : 1Ux +1Uz +1Uyy +1Uzz + UzUzz
+  451 : 1Ux +1Uz +1Uyy +1Uzz + UzUz
+  452 : 1Ux +1Uz +1Uyy +1Uzz + UxUzz
+  453 : 1Ux +1Uz +1Uyy +1Uzz + UxUz
+  454 : 1Ux +1Uz +1Uyy +1Uzz + UxUx
+  455 : 1Ux +1Uz +1Uyy +1Uzz + UUzz
+  456 : 1Ux +1Uz +1Uyy +1Uzz + UUz
+  457 : 1Ux +1Uz +1Uyy +1Uzz + UUx
+  458 : 1Ux +1Uz +1Uyy +1Uzz + UU
+  459 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz
+  460 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UzzUzz
+  461 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UzUzz
+  462 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UzUz
+  463 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UxUzz
+  464 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UxUz
+  465 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UxUx
+  466 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UUzz
+  467 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UUz
+  468 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UUx
+  469 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + UU
+  470 : 1Ux +1Uz +1Uxx
+  471 : 1Ux +1Uz +1Uxx + UxxUxx
+  472 : 1Ux +1Uz +1Uxx + UzUxx
+  473 : 1Ux +1Uz +1Uxx + UzUz
+  474 : 1Ux +1Uz +1Uxx + UxUxx
+  475 : 1Ux +1Uz +1Uxx + UxUz
+  476 : 1Ux +1Uz +1Uxx + UxUx
+  477 : 1Ux +1Uz +1Uxx + UUxx
+  478 : 1Ux +1Uz +1Uxx + UUz
+  479 : 1Ux +1Uz +1Uxx + UUx
+  480 : 1Ux +1Uz +1Uxx + UU
+  481 : 1Ux +1Uz +1Uxx +1Uzz
+  482 : 1Ux +1Uz +1Uxx +1Uzz + UzzUzz
+  483 : 1Ux +1Uz +1Uxx +1Uzz + UxxUzz
+  484 : 1Ux +1Uz +1Uxx +1Uzz + UxxUxx
+  485 : 1Ux +1Uz +1Uxx +1Uzz + UzUzz
+  486 : 1Ux +1Uz +1Uxx +1Uzz + UzUxx
+  487 : 1Ux +1Uz +1Uxx +1Uzz + UzUz
+  488 : 1Ux +1Uz +1Uxx +1Uzz + UxUzz
+  489 : 1Ux +1Uz +1Uxx +1Uzz + UxUxx
+  490 : 1Ux +1Uz +1Uxx +1Uzz + UxUz
+  491 : 1Ux +1Uz +1Uxx +1Uzz + UxUx
+  492 : 1Ux +1Uz +1Uxx +1Uzz + UUzz
+  493 : 1Ux +1Uz +1Uxx +1Uzz + UUxx
+  494 : 1Ux +1Uz +1Uxx +1Uzz + UUz
+  495 : 1Ux +1Uz +1Uxx +1Uzz + UUx
+  496 : 1Ux +1Uz +1Uxx +1Uzz + UU
+  497 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz
+  498 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxzUxz
+  499 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzzUxz
+  500 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzzUzz
+  501 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxxUxz
+  502 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxxUzz
+  503 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxxUxx
+  504 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzUxz
+  505 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzUzz
+  506 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzUxx
+  507 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UzUz
+  508 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxUxz
+  509 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxUzz
+  510 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxUxx
+  511 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxUz
+  512 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UxUx
+  513 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UUxz
+  514 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UUzz
+  515 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UUxx
+  516 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UUz
+  517 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UUx
+  518 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + UU
+  519 : 1Ux +1Uz +1Uxx +1Uyy
+  520 : 1Ux +1Uz +1Uxx +1Uyy + UxxUxx
+  521 : 1Ux +1Uz +1Uxx +1Uyy + UzUxx
+  522 : 1Ux +1Uz +1Uxx +1Uyy + UzUz
+  523 : 1Ux +1Uz +1Uxx +1Uyy + UxUxx
+  524 : 1Ux +1Uz +1Uxx +1Uyy + UxUz
+  525 : 1Ux +1Uz +1Uxx +1Uyy + UxUx
+  526 : 1Ux +1Uz +1Uxx +1Uyy + UUxx
+  527 : 1Ux +1Uz +1Uxx +1Uyy + UUz
+  528 : 1Ux +1Uz +1Uxx +1Uyy + UUx
+  529 : 1Ux +1Uz +1Uxx +1Uyy + UU
+  530 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy
+  531 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxyUxy
+  532 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxxUxy
+  533 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxxUxx
+  534 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UzUxy
+  535 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UzUxx
+  536 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UzUz
+  537 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxUxy
+  538 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxUxx
+  539 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxUz
+  540 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UxUx
+  541 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UUxy
+  542 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UUxx
+  543 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UUz
+  544 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UUx
+  545 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + UU
+  546 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz
+  547 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UzzUzz
+  548 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxxUzz
+  549 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxxUxx
+  550 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UzUzz
+  551 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UzUxx
+  552 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UzUz
+  553 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxUzz
+  554 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxUxx
+  555 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxUz
+  556 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UxUx
+  557 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UUzz
+  558 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UUxx
+  559 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UUz
+  560 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UUx
+  561 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + UU
+  562 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz +1Uyz
+  563 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz +1Uxz
+  564 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz +1Uxy
+  565 : 1Ux +1Uy +1Uzz
+  566 : 1Ux +1Uy +1Uzz + UyUy
+  567 : 1Ux +1Uy +1Uzz + UxUy
+  568 : 1Ux +1Uy +1Uzz + UxUx
+  569 : 1Ux +1Uy +1Uzz + UUy
+  570 : 1Ux +1Uy +1Uzz + UUx
+  571 : 1Ux +1Uy +1Uzz + UU
+  572 : 1Ux +1Uy +1Uyy
+  573 : 1Ux +1Uy +1Uyy + UyyUyy
+  574 : 1Ux +1Uy +1Uyy + UyUyy
+  575 : 1Ux +1Uy +1Uyy + UyUy
+  576 : 1Ux +1Uy +1Uyy + UxUyy
+  577 : 1Ux +1Uy +1Uyy + UxUy
+  578 : 1Ux +1Uy +1Uyy + UxUx
+  579 : 1Ux +1Uy +1Uyy + UUyy
+  580 : 1Ux +1Uy +1Uyy + UUy
+  581 : 1Ux +1Uy +1Uyy + UUx
+  582 : 1Ux +1Uy +1Uyy + UU
+  583 : 1Ux +1Uy +1Uyy +1Uzz
+  584 : 1Ux +1Uy +1Uyy +1Uzz + UyyUyy
+  585 : 1Ux +1Uy +1Uyy +1Uzz + UyUyy
+  586 : 1Ux +1Uy +1Uyy +1Uzz + UyUy
+  587 : 1Ux +1Uy +1Uyy +1Uzz + UxUyy
+  588 : 1Ux +1Uy +1Uyy +1Uzz + UxUy
+  589 : 1Ux +1Uy +1Uyy +1Uzz + UxUx
+  590 : 1Ux +1Uy +1Uyy +1Uzz + UUyy
+  591 : 1Ux +1Uy +1Uyy +1Uzz + UUy
+  592 : 1Ux +1Uy +1Uyy +1Uzz + UUx
+  593 : 1Ux +1Uy +1Uyy +1Uzz + UU
+  594 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz
+  595 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyzUyz
+  596 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyyUyz
+  597 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyyUyy
+  598 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyUyz
+  599 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyUyy
+  600 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UyUy
+  601 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UxUyz
+  602 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UxUyy
+  603 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UxUy
+  604 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UxUx
+  605 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UUyz
+  606 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UUyy
+  607 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UUy
+  608 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UUx
+  609 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + UU
+  610 : 1Ux +1Uy +1Uxx
+  611 : 1Ux +1Uy +1Uxx + UxxUxx
+  612 : 1Ux +1Uy +1Uxx + UyUxx
+  613 : 1Ux +1Uy +1Uxx + UyUy
+  614 : 1Ux +1Uy +1Uxx + UxUxx
+  615 : 1Ux +1Uy +1Uxx + UxUy
+  616 : 1Ux +1Uy +1Uxx + UxUx
+  617 : 1Ux +1Uy +1Uxx + UUxx
+  618 : 1Ux +1Uy +1Uxx + UUy
+  619 : 1Ux +1Uy +1Uxx + UUx
+  620 : 1Ux +1Uy +1Uxx + UU
+  621 : 1Ux +1Uy +1Uxx +1Uzz
+  622 : 1Ux +1Uy +1Uxx +1Uzz + UxxUxx
+  623 : 1Ux +1Uy +1Uxx +1Uzz + UyUxx
+  624 : 1Ux +1Uy +1Uxx +1Uzz + UyUy
+  625 : 1Ux +1Uy +1Uxx +1Uzz + UxUxx
+  626 : 1Ux +1Uy +1Uxx +1Uzz + UxUy
+  627 : 1Ux +1Uy +1Uxx +1Uzz + UxUx
+  628 : 1Ux +1Uy +1Uxx +1Uzz + UUxx
+  629 : 1Ux +1Uy +1Uxx +1Uzz + UUy
+  630 : 1Ux +1Uy +1Uxx +1Uzz + UUx
+  631 : 1Ux +1Uy +1Uxx +1Uzz + UU
+  632 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz
+  633 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxzUxz
+  634 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxxUxz
+  635 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxxUxx
+  636 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UyUxz
+  637 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UyUxx
+  638 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UyUy
+  639 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxUxz
+  640 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxUxx
+  641 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxUy
+  642 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UxUx
+  643 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UUxz
+  644 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UUxx
+  645 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UUy
+  646 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UUx
+  647 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + UU
+  648 : 1Ux +1Uy +1Uxx +1Uyy
+  649 : 1Ux +1Uy +1Uxx +1Uyy + UyyUyy
+  650 : 1Ux +1Uy +1Uxx +1Uyy + UxxUyy
+  651 : 1Ux +1Uy +1Uxx +1Uyy + UxxUxx
+  652 : 1Ux +1Uy +1Uxx +1Uyy + UyUyy
+  653 : 1Ux +1Uy +1Uxx +1Uyy + UyUxx
+  654 : 1Ux +1Uy +1Uxx +1Uyy + UyUy
+  655 : 1Ux +1Uy +1Uxx +1Uyy + UxUyy
+  656 : 1Ux +1Uy +1Uxx +1Uyy + UxUxx
+  657 : 1Ux +1Uy +1Uxx +1Uyy + UxUy
+  658 : 1Ux +1Uy +1Uxx +1Uyy + UxUx
+  659 : 1Ux +1Uy +1Uxx +1Uyy + UUyy
+  660 : 1Ux +1Uy +1Uxx +1Uyy + UUxx
+  661 : 1Ux +1Uy +1Uxx +1Uyy + UUy
+  662 : 1Ux +1Uy +1Uxx +1Uyy + UUx
+  663 : 1Ux +1Uy +1Uxx +1Uyy + UU
+  664 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy
+  665 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxyUxy
+  666 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyyUxy
+  667 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyyUyy
+  668 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxxUxy
+  669 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxxUyy
+  670 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxxUxx
+  671 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyUxy
+  672 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyUyy
+  673 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyUxx
+  674 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UyUy
+  675 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxUxy
+  676 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxUyy
+  677 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxUxx
+  678 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxUy
+  679 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UxUx
+  680 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UUxy
+  681 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UUyy
+  682 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UUxx
+  683 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UUy
+  684 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UUx
+  685 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + UU
+  686 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz
+  687 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UyyUyy
+  688 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxxUyy
+  689 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxxUxx
+  690 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UyUyy
+  691 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UyUxx
+  692 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UyUy
+  693 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxUyy
+  694 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxUxx
+  695 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxUy
+  696 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UxUx
+  697 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UUyy
+  698 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UUxx
+  699 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UUy
+  700 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UUx
+  701 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + UU
+  702 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz +1Uyz
+  703 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz +1Uxz
+  704 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz +1Uxy
+  705 : 1Ux +1Uy +1Uz +1Uzz
+  706 : 1Ux +1Uy +1Uz +1Uzz + UzzUzz
+  707 : 1Ux +1Uy +1Uz +1Uzz + UzUzz
+  708 : 1Ux +1Uy +1Uz +1Uzz + UzUz
+  709 : 1Ux +1Uy +1Uz +1Uzz + UyUzz
+  710 : 1Ux +1Uy +1Uz +1Uzz + UyUz
+  711 : 1Ux +1Uy +1Uz +1Uzz + UyUy
+  712 : 1Ux +1Uy +1Uz +1Uzz + UxUzz
+  713 : 1Ux +1Uy +1Uz +1Uzz + UxUz
+  714 : 1Ux +1Uy +1Uz +1Uzz + UxUy
+  715 : 1Ux +1Uy +1Uz +1Uzz + UxUx
+  716 : 1Ux +1Uy +1Uz +1Uzz + UUzz
+  717 : 1Ux +1Uy +1Uz +1Uzz + UUz
+  718 : 1Ux +1Uy +1Uz +1Uzz + UUy
+  719 : 1Ux +1Uy +1Uz +1Uzz + UUx
+  720 : 1Ux +1Uy +1Uz +1Uzz + UU
+  721 : 1Ux +1Uy +1Uz +1Uyy
+  722 : 1Ux +1Uy +1Uz +1Uyy + UyyUyy
+  723 : 1Ux +1Uy +1Uz +1Uyy + UzUyy
+  724 : 1Ux +1Uy +1Uz +1Uyy + UzUz
+  725 : 1Ux +1Uy +1Uz +1Uyy + UyUyy
+  726 : 1Ux +1Uy +1Uz +1Uyy + UyUz
+  727 : 1Ux +1Uy +1Uz +1Uyy + UyUy
+  728 : 1Ux +1Uy +1Uz +1Uyy + UxUyy
+  729 : 1Ux +1Uy +1Uz +1Uyy + UxUz
+  730 : 1Ux +1Uy +1Uz +1Uyy + UxUy
+  731 : 1Ux +1Uy +1Uz +1Uyy + UxUx
+  732 : 1Ux +1Uy +1Uz +1Uyy + UUyy
+  733 : 1Ux +1Uy +1Uz +1Uyy + UUz
+  734 : 1Ux +1Uy +1Uz +1Uyy + UUy
+  735 : 1Ux +1Uy +1Uz +1Uyy + UUx
+  736 : 1Ux +1Uy +1Uz +1Uyy + UU
+  737 : 1Ux +1Uy +1Uz +1Uyy +1Uzz
+  738 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UzzUzz
+  739 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyyUzz
+  740 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyyUyy
+  741 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UzUzz
+  742 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UzUyy
+  743 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UzUz
+  744 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyUzz
+  745 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyUyy
+  746 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyUz
+  747 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UyUy
+  748 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UxUzz
+  749 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UxUyy
+  750 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UxUz
+  751 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UxUy
+  752 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UxUx
+  753 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UUzz
+  754 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UUyy
+  755 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UUz
+  756 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UUy
+  757 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UUx
+  758 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + UU
+  759 : 1Ux +1Uy +1Uz +1Uyy +1Uzz +1Uyz
+  760 : 1Ux +1Uy +1Uz +1Uxx
+  761 : 1Ux +1Uy +1Uz +1Uxx + UxxUxx
+  762 : 1Ux +1Uy +1Uz +1Uxx + UzUxx
+  763 : 1Ux +1Uy +1Uz +1Uxx + UzUz
+  764 : 1Ux +1Uy +1Uz +1Uxx + UyUxx
+  765 : 1Ux +1Uy +1Uz +1Uxx + UyUz
+  766 : 1Ux +1Uy +1Uz +1Uxx + UyUy
+  767 : 1Ux +1Uy +1Uz +1Uxx + UxUxx
+  768 : 1Ux +1Uy +1Uz +1Uxx + UxUz
+  769 : 1Ux +1Uy +1Uz +1Uxx + UxUy
+  770 : 1Ux +1Uy +1Uz +1Uxx + UxUx
+  771 : 1Ux +1Uy +1Uz +1Uxx + UUxx
+  772 : 1Ux +1Uy +1Uz +1Uxx + UUz
+  773 : 1Ux +1Uy +1Uz +1Uxx + UUy
+  774 : 1Ux +1Uy +1Uz +1Uxx + UUx
+  775 : 1Ux +1Uy +1Uz +1Uxx + UU
+  776 : 1Ux +1Uy +1Uz +1Uxx +1Uzz
+  777 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UzzUzz
+  778 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxxUzz
+  779 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxxUxx
+  780 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UzUzz
+  781 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UzUxx
+  782 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UzUz
+  783 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UyUzz
+  784 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UyUxx
+  785 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UyUz
+  786 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UyUy
+  787 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxUzz
+  788 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxUxx
+  789 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxUz
+  790 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxUy
+  791 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UxUx
+  792 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UUzz
+  793 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UUxx
+  794 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UUz
+  795 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UUy
+  796 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UUx
+  797 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + UU
+  798 : 1Ux +1Uy +1Uz +1Uxx +1Uzz +1Uxz
+  799 : 1Ux +1Uy +1Uz +1Uxx +1Uyy
+  800 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UyyUyy
+  801 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxxUyy
+  802 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxxUxx
+  803 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UzUyy
+  804 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UzUxx
+  805 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UzUz
+  806 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UyUyy
+  807 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UyUxx
+  808 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UyUz
+  809 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UyUy
+  810 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxUyy
+  811 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxUxx
+  812 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxUz
+  813 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxUy
+  814 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UxUx
+  815 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UUyy
+  816 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UUxx
+  817 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UUz
+  818 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UUy
+  819 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UUx
+  820 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + UU
+  821 : 1Ux +1Uy +1Uz +1Uxx +1Uyy +1Uxy
+  822 : 1Ux +1Uy +1Uz +1Uxx +1Uyy +1Uzz
+  823 : 1Uzz + U
+  824 : 1Uzz + U + UU
+  825 : 1Uyy + U
+  826 : 1Uyy + U + UU
+  827 : 1Uyy +1Uzz + U
+  828 : 1Uyy +1Uzz + U + UU
+  829 : 1Uyy +1Uzz +1Uyz + U
+  830 : 1Uyy +1Uzz +1Uyz + U + UU
+  831 : 1Uxx + U
+  832 : 1Uxx + U + UU
+  833 : 1Uxx +1Uzz + U
+  834 : 1Uxx +1Uzz + U + UU
+  835 : 1Uxx +1Uzz +1Uxz + U
+  836 : 1Uxx +1Uzz +1Uxz + U + UU
+  837 : 1Uxx +1Uyy + U
+  838 : 1Uxx +1Uyy + U + UU
+  839 : 1Uxx +1Uyy +1Uxy + U
+  840 : 1Uxx +1Uyy +1Uxy + U + UU
+  841 : 1Uxx +1Uyy +1Uzz + U
+  842 : 1Uxx +1Uyy +1Uzz + U + UU
+  843 : 1Uxx +1Uyy +1Uzz +1Uyz + U
+  844 : 1Uxx +1Uyy +1Uzz +1Uyz + U + UU
+  845 : 1Uxx +1Uyy +1Uzz +1Uxz + U
+  846 : 1Uxx +1Uyy +1Uzz +1Uxz + U + UU
+  847 : 1Uxx +1Uyy +1Uzz +1Uxz +1Uyz + U
+  848 : 1Uxx +1Uyy +1Uzz +1Uxy + U
+  849 : 1Uxx +1Uyy +1Uzz +1Uxy + U + UU
+  850 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uyz + U
+  851 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uxz + U
+  852 : 1Uz +1Uzz + U
+  853 : 1Uz +1Uzz + U + UzzUzz
+  854 : 1Uz +1Uzz + U + UzUzz
+  855 : 1Uz +1Uzz + U + UzUz
+  856 : 1Uz +1Uzz + U + UUzz
+  857 : 1Uz +1Uzz + U + UUz
+  858 : 1Uz +1Uzz + U + UU
+  859 : 1Uz +1Uyy + U
+  860 : 1Uz +1Uyy + U + UzUz
+  861 : 1Uz +1Uyy + U + UUz
+  862 : 1Uz +1Uyy + U + UU
+  863 : 1Uz +1Uyy +1Uzz + U
+  864 : 1Uz +1Uyy +1Uzz + U + UzzUzz
+  865 : 1Uz +1Uyy +1Uzz + U + UzUzz
+  866 : 1Uz +1Uyy +1Uzz + U + UzUz
+  867 : 1Uz +1Uyy +1Uzz + U + UUzz
+  868 : 1Uz +1Uyy +1Uzz + U + UUz
+  869 : 1Uz +1Uyy +1Uzz + U + UU
+  870 : 1Uz +1Uyy +1Uzz +1Uyz + U
+  871 : 1Uz +1Uyy +1Uzz +1Uyz + U + UzzUzz
+  872 : 1Uz +1Uyy +1Uzz +1Uyz + U + UzUzz
+  873 : 1Uz +1Uyy +1Uzz +1Uyz + U + UzUz
+  874 : 1Uz +1Uyy +1Uzz +1Uyz + U + UUzz
+  875 : 1Uz +1Uyy +1Uzz +1Uyz + U + UUz
+  876 : 1Uz +1Uyy +1Uzz +1Uyz + U + UU
+  877 : 1Uz +1Uxx + U
+  878 : 1Uz +1Uxx + U + UzUz
+  879 : 1Uz +1Uxx + U + UUz
+  880 : 1Uz +1Uxx + U + UU
+  881 : 1Uz +1Uxx +1Uzz + U
+  882 : 1Uz +1Uxx +1Uzz + U + UzzUzz
+  883 : 1Uz +1Uxx +1Uzz + U + UzUzz
+  884 : 1Uz +1Uxx +1Uzz + U + UzUz
+  885 : 1Uz +1Uxx +1Uzz + U + UUzz
+  886 : 1Uz +1Uxx +1Uzz + U + UUz
+  887 : 1Uz +1Uxx +1Uzz + U + UU
+  888 : 1Uz +1Uxx +1Uzz +1Uxz + U
+  889 : 1Uz +1Uxx +1Uzz +1Uxz + U + UzzUzz
+  890 : 1Uz +1Uxx +1Uzz +1Uxz + U + UzUzz
+  891 : 1Uz +1Uxx +1Uzz +1Uxz + U + UzUz
+  892 : 1Uz +1Uxx +1Uzz +1Uxz + U + UUzz
+  893 : 1Uz +1Uxx +1Uzz +1Uxz + U + UUz
+  894 : 1Uz +1Uxx +1Uzz +1Uxz + U + UU
+  895 : 1Uz +1Uxx +1Uyy + U
+  896 : 1Uz +1Uxx +1Uyy + U + UzUz
+  897 : 1Uz +1Uxx +1Uyy + U + UUz
+  898 : 1Uz +1Uxx +1Uyy + U + UU
+  899 : 1Uz +1Uxx +1Uyy +1Uxy + U
+  900 : 1Uz +1Uxx +1Uyy +1Uxy + U + UzUz
+  901 : 1Uz +1Uxx +1Uyy +1Uxy + U + UUz
+  902 : 1Uz +1Uxx +1Uyy +1Uxy + U + UU
+  903 : 1Uz +1Uxx +1Uyy +1Uzz + U
+  904 : 1Uz +1Uxx +1Uyy +1Uzz + U + UzzUzz
+  905 : 1Uz +1Uxx +1Uyy +1Uzz + U + UzUzz
+  906 : 1Uz +1Uxx +1Uyy +1Uzz + U + UzUz
+  907 : 1Uz +1Uxx +1Uyy +1Uzz + U + UUzz
+  908 : 1Uz +1Uxx +1Uyy +1Uzz + U + UUz
+  909 : 1Uz +1Uxx +1Uyy +1Uzz + U + UU
+  910 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + U
+  911 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + U
+  912 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + U
+  913 : 1Uy +1Uzz + U
+  914 : 1Uy +1Uzz + U + UyUy
+  915 : 1Uy +1Uzz + U + UUy
+  916 : 1Uy +1Uzz + U + UU
+  917 : 1Uy +1Uyy + U
+  918 : 1Uy +1Uyy + U + UyyUyy
+  919 : 1Uy +1Uyy + U + UyUyy
+  920 : 1Uy +1Uyy + U + UyUy
+  921 : 1Uy +1Uyy + U + UUyy
+  922 : 1Uy +1Uyy + U + UUy
+  923 : 1Uy +1Uyy + U + UU
+  924 : 1Uy +1Uyy +1Uzz + U
+  925 : 1Uy +1Uyy +1Uzz + U + UyyUyy
+  926 : 1Uy +1Uyy +1Uzz + U + UyUyy
+  927 : 1Uy +1Uyy +1Uzz + U + UyUy
+  928 : 1Uy +1Uyy +1Uzz + U + UUyy
+  929 : 1Uy +1Uyy +1Uzz + U + UUy
+  930 : 1Uy +1Uyy +1Uzz + U + UU
+  931 : 1Uy +1Uyy +1Uzz +1Uyz + U
+  932 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyzUyz
+  933 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyyUyz
+  934 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyyUyy
+  935 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyUyz
+  936 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyUyy
+  937 : 1Uy +1Uyy +1Uzz +1Uyz + U + UyUy
+  938 : 1Uy +1Uyy +1Uzz +1Uyz + U + UUyz
+  939 : 1Uy +1Uyy +1Uzz +1Uyz + U + UUyy
+  940 : 1Uy +1Uyy +1Uzz +1Uyz + U + UUy
+  941 : 1Uy +1Uyy +1Uzz +1Uyz + U + UU
+  942 : 1Uy +1Uxx + U
+  943 : 1Uy +1Uxx + U + UyUy
+  944 : 1Uy +1Uxx + U + UUy
+  945 : 1Uy +1Uxx + U + UU
+  946 : 1Uy +1Uxx +1Uzz + U
+  947 : 1Uy +1Uxx +1Uzz + U + UyUy
+  948 : 1Uy +1Uxx +1Uzz + U + UUy
+  949 : 1Uy +1Uxx +1Uzz + U + UU
+  950 : 1Uy +1Uxx +1Uzz +1Uxz + U
+  951 : 1Uy +1Uxx +1Uzz +1Uxz + U + UyUy
+  952 : 1Uy +1Uxx +1Uzz +1Uxz + U + UUy
+  953 : 1Uy +1Uxx +1Uzz +1Uxz + U + UU
+  954 : 1Uy +1Uxx +1Uyy + U
+  955 : 1Uy +1Uxx +1Uyy + U + UyyUyy
+  956 : 1Uy +1Uxx +1Uyy + U + UyUyy
+  957 : 1Uy +1Uxx +1Uyy + U + UyUy
+  958 : 1Uy +1Uxx +1Uyy + U + UUyy
+  959 : 1Uy +1Uxx +1Uyy + U + UUy
+  960 : 1Uy +1Uxx +1Uyy + U + UU
+  961 : 1Uy +1Uxx +1Uyy +1Uxy + U
+  962 : 1Uy +1Uxx +1Uyy +1Uxy + U + UyyUyy
+  963 : 1Uy +1Uxx +1Uyy +1Uxy + U + UyUyy
+  964 : 1Uy +1Uxx +1Uyy +1Uxy + U + UyUy
+  965 : 1Uy +1Uxx +1Uyy +1Uxy + U + UUyy
+  966 : 1Uy +1Uxx +1Uyy +1Uxy + U + UUy
+  967 : 1Uy +1Uxx +1Uyy +1Uxy + U + UU
+  968 : 1Uy +1Uxx +1Uyy +1Uzz + U
+  969 : 1Uy +1Uxx +1Uyy +1Uzz + U + UyyUyy
+  970 : 1Uy +1Uxx +1Uyy +1Uzz + U + UyUyy
+  971 : 1Uy +1Uxx +1Uyy +1Uzz + U + UyUy
+  972 : 1Uy +1Uxx +1Uyy +1Uzz + U + UUyy
+  973 : 1Uy +1Uxx +1Uyy +1Uzz + U + UUy
+  974 : 1Uy +1Uxx +1Uyy +1Uzz + U + UU
+  975 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + U
+  976 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + U
+  977 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + U
+  978 : 1Uy +1Uz +1Uzz + U
+  979 : 1Uy +1Uz +1Uzz + U + UzzUzz
+  980 : 1Uy +1Uz +1Uzz + U + UzUzz
+  981 : 1Uy +1Uz +1Uzz + U + UzUz
+  982 : 1Uy +1Uz +1Uzz + U + UyUzz
+  983 : 1Uy +1Uz +1Uzz + U + UyUz
+  984 : 1Uy +1Uz +1Uzz + U + UyUy
+  985 : 1Uy +1Uz +1Uzz + U + UUzz
+  986 : 1Uy +1Uz +1Uzz + U + UUz
+  987 : 1Uy +1Uz +1Uzz + U + UUy
+  988 : 1Uy +1Uz +1Uzz + U + UU
+  989 : 1Uy +1Uz +1Uyy + U
+  990 : 1Uy +1Uz +1Uyy + U + UyyUyy
+  991 : 1Uy +1Uz +1Uyy + U + UzUyy
+  992 : 1Uy +1Uz +1Uyy + U + UzUz
+  993 : 1Uy +1Uz +1Uyy + U + UyUyy
+  994 : 1Uy +1Uz +1Uyy + U + UyUz
+  995 : 1Uy +1Uz +1Uyy + U + UyUy
+  996 : 1Uy +1Uz +1Uyy + U + UUyy
+  997 : 1Uy +1Uz +1Uyy + U + UUz
+  998 : 1Uy +1Uz +1Uyy + U + UUy
+  999 : 1Uy +1Uz +1Uyy + U + UU
+ 1000 : 1Uy +1Uz +1Uyy +1Uzz + U
+ 1001 : 1Uy +1Uz +1Uyy +1Uzz + U + UzzUzz
+ 1002 : 1Uy +1Uz +1Uyy +1Uzz + U + UyyUzz
+ 1003 : 1Uy +1Uz +1Uyy +1Uzz + U + UyyUyy
+ 1004 : 1Uy +1Uz +1Uyy +1Uzz + U + UzUzz
+ 1005 : 1Uy +1Uz +1Uyy +1Uzz + U + UzUyy
+ 1006 : 1Uy +1Uz +1Uyy +1Uzz + U + UzUz
+ 1007 : 1Uy +1Uz +1Uyy +1Uzz + U + UyUzz
+ 1008 : 1Uy +1Uz +1Uyy +1Uzz + U + UyUyy
+ 1009 : 1Uy +1Uz +1Uyy +1Uzz + U + UyUz
+ 1010 : 1Uy +1Uz +1Uyy +1Uzz + U + UyUy
+ 1011 : 1Uy +1Uz +1Uyy +1Uzz + U + UUzz
+ 1012 : 1Uy +1Uz +1Uyy +1Uzz + U + UUyy
+ 1013 : 1Uy +1Uz +1Uyy +1Uzz + U + UUz
+ 1014 : 1Uy +1Uz +1Uyy +1Uzz + U + UUy
+ 1015 : 1Uy +1Uz +1Uyy +1Uzz + U + UU
+ 1016 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + U
+ 1017 : 1Uy +1Uz +1Uxx + U
+ 1018 : 1Uy +1Uz +1Uxx + U + UzUz
+ 1019 : 1Uy +1Uz +1Uxx + U + UyUz
+ 1020 : 1Uy +1Uz +1Uxx + U + UyUy
+ 1021 : 1Uy +1Uz +1Uxx + U + UUz
+ 1022 : 1Uy +1Uz +1Uxx + U + UUy
+ 1023 : 1Uy +1Uz +1Uxx + U + UU
+ 1024 : 1Uy +1Uz +1Uxx +1Uzz + U
+ 1025 : 1Uy +1Uz +1Uxx +1Uzz + U + UzzUzz
+ 1026 : 1Uy +1Uz +1Uxx +1Uzz + U + UzUzz
+ 1027 : 1Uy +1Uz +1Uxx +1Uzz + U + UzUz
+ 1028 : 1Uy +1Uz +1Uxx +1Uzz + U + UyUzz
+ 1029 : 1Uy +1Uz +1Uxx +1Uzz + U + UyUz
+ 1030 : 1Uy +1Uz +1Uxx +1Uzz + U + UyUy
+ 1031 : 1Uy +1Uz +1Uxx +1Uzz + U + UUzz
+ 1032 : 1Uy +1Uz +1Uxx +1Uzz + U + UUz
+ 1033 : 1Uy +1Uz +1Uxx +1Uzz + U + UUy
+ 1034 : 1Uy +1Uz +1Uxx +1Uzz + U + UU
+ 1035 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + U
+ 1036 : 1Uy +1Uz +1Uxx +1Uyy + U
+ 1037 : 1Uy +1Uz +1Uxx +1Uyy + U + UyyUyy
+ 1038 : 1Uy +1Uz +1Uxx +1Uyy + U + UzUyy
+ 1039 : 1Uy +1Uz +1Uxx +1Uyy + U + UzUz
+ 1040 : 1Uy +1Uz +1Uxx +1Uyy + U + UyUyy
+ 1041 : 1Uy +1Uz +1Uxx +1Uyy + U + UyUz
+ 1042 : 1Uy +1Uz +1Uxx +1Uyy + U + UyUy
+ 1043 : 1Uy +1Uz +1Uxx +1Uyy + U + UUyy
+ 1044 : 1Uy +1Uz +1Uxx +1Uyy + U + UUz
+ 1045 : 1Uy +1Uz +1Uxx +1Uyy + U + UUy
+ 1046 : 1Uy +1Uz +1Uxx +1Uyy + U + UU
+ 1047 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + U
+ 1048 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + U
+ 1049 : 1Ux +1Uzz + U
+ 1050 : 1Ux +1Uzz + U + UxUx
+ 1051 : 1Ux +1Uzz + U + UUx
+ 1052 : 1Ux +1Uzz + U + UU
+ 1053 : 1Ux +1Uyy + U
+ 1054 : 1Ux +1Uyy + U + UxUx
+ 1055 : 1Ux +1Uyy + U + UUx
+ 1056 : 1Ux +1Uyy + U + UU
+ 1057 : 1Ux +1Uyy +1Uzz + U
+ 1058 : 1Ux +1Uyy +1Uzz + U + UxUx
+ 1059 : 1Ux +1Uyy +1Uzz + U + UUx
+ 1060 : 1Ux +1Uyy +1Uzz + U + UU
+ 1061 : 1Ux +1Uyy +1Uzz +1Uyz + U
+ 1062 : 1Ux +1Uyy +1Uzz +1Uyz + U + UxUx
+ 1063 : 1Ux +1Uyy +1Uzz +1Uyz + U + UUx
+ 1064 : 1Ux +1Uyy +1Uzz +1Uyz + U + UU
+ 1065 : 1Ux +1Uxx + U
+ 1066 : 1Ux +1Uxx + U + UxxUxx
+ 1067 : 1Ux +1Uxx + U + UxUxx
+ 1068 : 1Ux +1Uxx + U + UxUx
+ 1069 : 1Ux +1Uxx + U + UUxx
+ 1070 : 1Ux +1Uxx + U + UUx
+ 1071 : 1Ux +1Uxx + U + UU
+ 1072 : 1Ux +1Uxx +1Uzz + U
+ 1073 : 1Ux +1Uxx +1Uzz + U + UxxUxx
+ 1074 : 1Ux +1Uxx +1Uzz + U + UxUxx
+ 1075 : 1Ux +1Uxx +1Uzz + U + UxUx
+ 1076 : 1Ux +1Uxx +1Uzz + U + UUxx
+ 1077 : 1Ux +1Uxx +1Uzz + U + UUx
+ 1078 : 1Ux +1Uxx +1Uzz + U + UU
+ 1079 : 1Ux +1Uxx +1Uzz +1Uxz + U
+ 1080 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxzUxz
+ 1081 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxxUxz
+ 1082 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxxUxx
+ 1083 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxUxz
+ 1084 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxUxx
+ 1085 : 1Ux +1Uxx +1Uzz +1Uxz + U + UxUx
+ 1086 : 1Ux +1Uxx +1Uzz +1Uxz + U + UUxz
+ 1087 : 1Ux +1Uxx +1Uzz +1Uxz + U + UUxx
+ 1088 : 1Ux +1Uxx +1Uzz +1Uxz + U + UUx
+ 1089 : 1Ux +1Uxx +1Uzz +1Uxz + U + UU
+ 1090 : 1Ux +1Uxx +1Uyy + U
+ 1091 : 1Ux +1Uxx +1Uyy + U + UxxUxx
+ 1092 : 1Ux +1Uxx +1Uyy + U + UxUxx
+ 1093 : 1Ux +1Uxx +1Uyy + U + UxUx
+ 1094 : 1Ux +1Uxx +1Uyy + U + UUxx
+ 1095 : 1Ux +1Uxx +1Uyy + U + UUx
+ 1096 : 1Ux +1Uxx +1Uyy + U + UU
+ 1097 : 1Ux +1Uxx +1Uyy +1Uxy + U
+ 1098 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxyUxy
+ 1099 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxxUxy
+ 1100 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxxUxx
+ 1101 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxUxy
+ 1102 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxUxx
+ 1103 : 1Ux +1Uxx +1Uyy +1Uxy + U + UxUx
+ 1104 : 1Ux +1Uxx +1Uyy +1Uxy + U + UUxy
+ 1105 : 1Ux +1Uxx +1Uyy +1Uxy + U + UUxx
+ 1106 : 1Ux +1Uxx +1Uyy +1Uxy + U + UUx
+ 1107 : 1Ux +1Uxx +1Uyy +1Uxy + U + UU
+ 1108 : 1Ux +1Uxx +1Uyy +1Uzz + U
+ 1109 : 1Ux +1Uxx +1Uyy +1Uzz + U + UxxUxx
+ 1110 : 1Ux +1Uxx +1Uyy +1Uzz + U + UxUxx
+ 1111 : 1Ux +1Uxx +1Uyy +1Uzz + U + UxUx
+ 1112 : 1Ux +1Uxx +1Uyy +1Uzz + U + UUxx
+ 1113 : 1Ux +1Uxx +1Uyy +1Uzz + U + UUx
+ 1114 : 1Ux +1Uxx +1Uyy +1Uzz + U + UU
+ 1115 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + U
+ 1116 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + U
+ 1117 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + U
+ 1118 : 1Ux +1Uz +1Uzz + U
+ 1119 : 1Ux +1Uz +1Uzz + U + UzzUzz
+ 1120 : 1Ux +1Uz +1Uzz + U + UzUzz
+ 1121 : 1Ux +1Uz +1Uzz + U + UzUz
+ 1122 : 1Ux +1Uz +1Uzz + U + UxUzz
+ 1123 : 1Ux +1Uz +1Uzz + U + UxUz
+ 1124 : 1Ux +1Uz +1Uzz + U + UxUx
+ 1125 : 1Ux +1Uz +1Uzz + U + UUzz
+ 1126 : 1Ux +1Uz +1Uzz + U + UUz
+ 1127 : 1Ux +1Uz +1Uzz + U + UUx
+ 1128 : 1Ux +1Uz +1Uzz + U + UU
+ 1129 : 1Ux +1Uz +1Uyy + U
+ 1130 : 1Ux +1Uz +1Uyy + U + UzUz
+ 1131 : 1Ux +1Uz +1Uyy + U + UxUz
+ 1132 : 1Ux +1Uz +1Uyy + U + UxUx
+ 1133 : 1Ux +1Uz +1Uyy + U + UUz
+ 1134 : 1Ux +1Uz +1Uyy + U + UUx
+ 1135 : 1Ux +1Uz +1Uyy + U + UU
+ 1136 : 1Ux +1Uz +1Uyy +1Uzz + U
+ 1137 : 1Ux +1Uz +1Uyy +1Uzz + U + UzzUzz
+ 1138 : 1Ux +1Uz +1Uyy +1Uzz + U + UzUzz
+ 1139 : 1Ux +1Uz +1Uyy +1Uzz + U + UzUz
+ 1140 : 1Ux +1Uz +1Uyy +1Uzz + U + UxUzz
+ 1141 : 1Ux +1Uz +1Uyy +1Uzz + U + UxUz
+ 1142 : 1Ux +1Uz +1Uyy +1Uzz + U + UxUx
+ 1143 : 1Ux +1Uz +1Uyy +1Uzz + U + UUzz
+ 1144 : 1Ux +1Uz +1Uyy +1Uzz + U + UUz
+ 1145 : 1Ux +1Uz +1Uyy +1Uzz + U + UUx
+ 1146 : 1Ux +1Uz +1Uyy +1Uzz + U + UU
+ 1147 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + U
+ 1148 : 1Ux +1Uz +1Uxx + U
+ 1149 : 1Ux +1Uz +1Uxx + U + UxxUxx
+ 1150 : 1Ux +1Uz +1Uxx + U + UzUxx
+ 1151 : 1Ux +1Uz +1Uxx + U + UzUz
+ 1152 : 1Ux +1Uz +1Uxx + U + UxUxx
+ 1153 : 1Ux +1Uz +1Uxx + U + UxUz
+ 1154 : 1Ux +1Uz +1Uxx + U + UxUx
+ 1155 : 1Ux +1Uz +1Uxx + U + UUxx
+ 1156 : 1Ux +1Uz +1Uxx + U + UUz
+ 1157 : 1Ux +1Uz +1Uxx + U + UUx
+ 1158 : 1Ux +1Uz +1Uxx + U + UU
+ 1159 : 1Ux +1Uz +1Uxx +1Uzz + U
+ 1160 : 1Ux +1Uz +1Uxx +1Uzz + U + UzzUzz
+ 1161 : 1Ux +1Uz +1Uxx +1Uzz + U + UxxUzz
+ 1162 : 1Ux +1Uz +1Uxx +1Uzz + U + UxxUxx
+ 1163 : 1Ux +1Uz +1Uxx +1Uzz + U + UzUzz
+ 1164 : 1Ux +1Uz +1Uxx +1Uzz + U + UzUxx
+ 1165 : 1Ux +1Uz +1Uxx +1Uzz + U + UzUz
+ 1166 : 1Ux +1Uz +1Uxx +1Uzz + U + UxUzz
+ 1167 : 1Ux +1Uz +1Uxx +1Uzz + U + UxUxx
+ 1168 : 1Ux +1Uz +1Uxx +1Uzz + U + UxUz
+ 1169 : 1Ux +1Uz +1Uxx +1Uzz + U + UxUx
+ 1170 : 1Ux +1Uz +1Uxx +1Uzz + U + UUzz
+ 1171 : 1Ux +1Uz +1Uxx +1Uzz + U + UUxx
+ 1172 : 1Ux +1Uz +1Uxx +1Uzz + U + UUz
+ 1173 : 1Ux +1Uz +1Uxx +1Uzz + U + UUx
+ 1174 : 1Ux +1Uz +1Uxx +1Uzz + U + UU
+ 1175 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + U
+ 1176 : 1Ux +1Uz +1Uxx +1Uyy + U
+ 1177 : 1Ux +1Uz +1Uxx +1Uyy + U + UxxUxx
+ 1178 : 1Ux +1Uz +1Uxx +1Uyy + U + UzUxx
+ 1179 : 1Ux +1Uz +1Uxx +1Uyy + U + UzUz
+ 1180 : 1Ux +1Uz +1Uxx +1Uyy + U + UxUxx
+ 1181 : 1Ux +1Uz +1Uxx +1Uyy + U + UxUz
+ 1182 : 1Ux +1Uz +1Uxx +1Uyy + U + UxUx
+ 1183 : 1Ux +1Uz +1Uxx +1Uyy + U + UUxx
+ 1184 : 1Ux +1Uz +1Uxx +1Uyy + U + UUz
+ 1185 : 1Ux +1Uz +1Uxx +1Uyy + U + UUx
+ 1186 : 1Ux +1Uz +1Uxx +1Uyy + U + UU
+ 1187 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + U
+ 1188 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + U
+ 1189 : 1Ux +1Uy +1Uzz + U
+ 1190 : 1Ux +1Uy +1Uzz + U + UyUy
+ 1191 : 1Ux +1Uy +1Uzz + U + UxUy
+ 1192 : 1Ux +1Uy +1Uzz + U + UxUx
+ 1193 : 1Ux +1Uy +1Uzz + U + UUy
+ 1194 : 1Ux +1Uy +1Uzz + U + UUx
+ 1195 : 1Ux +1Uy +1Uzz + U + UU
+ 1196 : 1Ux +1Uy +1Uyy + U
+ 1197 : 1Ux +1Uy +1Uyy + U + UyyUyy
+ 1198 : 1Ux +1Uy +1Uyy + U + UyUyy
+ 1199 : 1Ux +1Uy +1Uyy + U + UyUy
+ 1200 : 1Ux +1Uy +1Uyy + U + UxUyy
+ 1201 : 1Ux +1Uy +1Uyy + U + UxUy
+ 1202 : 1Ux +1Uy +1Uyy + U + UxUx
+ 1203 : 1Ux +1Uy +1Uyy + U + UUyy
+ 1204 : 1Ux +1Uy +1Uyy + U + UUy
+ 1205 : 1Ux +1Uy +1Uyy + U + UUx
+ 1206 : 1Ux +1Uy +1Uyy + U + UU
+ 1207 : 1Ux +1Uy +1Uyy +1Uzz + U
+ 1208 : 1Ux +1Uy +1Uyy +1Uzz + U + UyyUyy
+ 1209 : 1Ux +1Uy +1Uyy +1Uzz + U + UyUyy
+ 1210 : 1Ux +1Uy +1Uyy +1Uzz + U + UyUy
+ 1211 : 1Ux +1Uy +1Uyy +1Uzz + U + UxUyy
+ 1212 : 1Ux +1Uy +1Uyy +1Uzz + U + UxUy
+ 1213 : 1Ux +1Uy +1Uyy +1Uzz + U + UxUx
+ 1214 : 1Ux +1Uy +1Uyy +1Uzz + U + UUyy
+ 1215 : 1Ux +1Uy +1Uyy +1Uzz + U + UUy
+ 1216 : 1Ux +1Uy +1Uyy +1Uzz + U + UUx
+ 1217 : 1Ux +1Uy +1Uyy +1Uzz + U + UU
+ 1218 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + U
+ 1219 : 1Ux +1Uy +1Uxx + U
+ 1220 : 1Ux +1Uy +1Uxx + U + UxxUxx
+ 1221 : 1Ux +1Uy +1Uxx + U + UyUxx
+ 1222 : 1Ux +1Uy +1Uxx + U + UyUy
+ 1223 : 1Ux +1Uy +1Uxx + U + UxUxx
+ 1224 : 1Ux +1Uy +1Uxx + U + UxUy
+ 1225 : 1Ux +1Uy +1Uxx + U + UxUx
+ 1226 : 1Ux +1Uy +1Uxx + U + UUxx
+ 1227 : 1Ux +1Uy +1Uxx + U + UUy
+ 1228 : 1Ux +1Uy +1Uxx + U + UUx
+ 1229 : 1Ux +1Uy +1Uxx + U + UU
+ 1230 : 1Ux +1Uy +1Uxx +1Uzz + U
+ 1231 : 1Ux +1Uy +1Uxx +1Uzz + U + UxxUxx
+ 1232 : 1Ux +1Uy +1Uxx +1Uzz + U + UyUxx
+ 1233 : 1Ux +1Uy +1Uxx +1Uzz + U + UyUy
+ 1234 : 1Ux +1Uy +1Uxx +1Uzz + U + UxUxx
+ 1235 : 1Ux +1Uy +1Uxx +1Uzz + U + UxUy
+ 1236 : 1Ux +1Uy +1Uxx +1Uzz + U + UxUx
+ 1237 : 1Ux +1Uy +1Uxx +1Uzz + U + UUxx
+ 1238 : 1Ux +1Uy +1Uxx +1Uzz + U + UUy
+ 1239 : 1Ux +1Uy +1Uxx +1Uzz + U + UUx
+ 1240 : 1Ux +1Uy +1Uxx +1Uzz + U + UU
+ 1241 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + U
+ 1242 : 1Ux +1Uy +1Uxx +1Uyy + U
+ 1243 : 1Ux +1Uy +1Uxx +1Uyy + U + UyyUyy
+ 1244 : 1Ux +1Uy +1Uxx +1Uyy + U + UxxUyy
+ 1245 : 1Ux +1Uy +1Uxx +1Uyy + U + UxxUxx
+ 1246 : 1Ux +1Uy +1Uxx +1Uyy + U + UyUyy
+ 1247 : 1Ux +1Uy +1Uxx +1Uyy + U + UyUxx
+ 1248 : 1Ux +1Uy +1Uxx +1Uyy + U + UyUy
+ 1249 : 1Ux +1Uy +1Uxx +1Uyy + U + UxUyy
+ 1250 : 1Ux +1Uy +1Uxx +1Uyy + U + UxUxx
+ 1251 : 1Ux +1Uy +1Uxx +1Uyy + U + UxUy
+ 1252 : 1Ux +1Uy +1Uxx +1Uyy + U + UxUx
+ 1253 : 1Ux +1Uy +1Uxx +1Uyy + U + UUyy
+ 1254 : 1Ux +1Uy +1Uxx +1Uyy + U + UUxx
+ 1255 : 1Ux +1Uy +1Uxx +1Uyy + U + UUy
+ 1256 : 1Ux +1Uy +1Uxx +1Uyy + U + UUx
+ 1257 : 1Ux +1Uy +1Uxx +1Uyy + U + UU
+ 1258 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + U
+ 1259 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + U
+ 1260 : 1Ux +1Uy +1Uz +1Uzz + U
+ 1261 : 1Ux +1Uy +1Uz +1Uzz + U + UzzUzz
+ 1262 : 1Ux +1Uy +1Uz +1Uzz + U + UzUzz
+ 1263 : 1Ux +1Uy +1Uz +1Uzz + U + UzUz
+ 1264 : 1Ux +1Uy +1Uz +1Uzz + U + UyUzz
+ 1265 : 1Ux +1Uy +1Uz +1Uzz + U + UyUz
+ 1266 : 1Ux +1Uy +1Uz +1Uzz + U + UyUy
+ 1267 : 1Ux +1Uy +1Uz +1Uzz + U + UxUzz
+ 1268 : 1Ux +1Uy +1Uz +1Uzz + U + UxUz
+ 1269 : 1Ux +1Uy +1Uz +1Uzz + U + UxUy
+ 1270 : 1Ux +1Uy +1Uz +1Uzz + U + UxUx
+ 1271 : 1Ux +1Uy +1Uz +1Uzz + U + UUzz
+ 1272 : 1Ux +1Uy +1Uz +1Uzz + U + UUz
+ 1273 : 1Ux +1Uy +1Uz +1Uzz + U + UUy
+ 1274 : 1Ux +1Uy +1Uz +1Uzz + U + UUx
+ 1275 : 1Ux +1Uy +1Uz +1Uzz + U + UU
+ 1276 : 1Ux +1Uy +1Uz +1Uyy + U
+ 1277 : 1Ux +1Uy +1Uz +1Uyy + U + UyyUyy
+ 1278 : 1Ux +1Uy +1Uz +1Uyy + U + UzUyy
+ 1279 : 1Ux +1Uy +1Uz +1Uyy + U + UzUz
+ 1280 : 1Ux +1Uy +1Uz +1Uyy + U + UyUyy
+ 1281 : 1Ux +1Uy +1Uz +1Uyy + U + UyUz
+ 1282 : 1Ux +1Uy +1Uz +1Uyy + U + UyUy
+ 1283 : 1Ux +1Uy +1Uz +1Uyy + U + UxUyy
+ 1284 : 1Ux +1Uy +1Uz +1Uyy + U + UxUz
+ 1285 : 1Ux +1Uy +1Uz +1Uyy + U + UxUy
+ 1286 : 1Ux +1Uy +1Uz +1Uyy + U + UxUx
+ 1287 : 1Ux +1Uy +1Uz +1Uyy + U + UUyy
+ 1288 : 1Ux +1Uy +1Uz +1Uyy + U + UUz
+ 1289 : 1Ux +1Uy +1Uz +1Uyy + U + UUy
+ 1290 : 1Ux +1Uy +1Uz +1Uyy + U + UUx
+ 1291 : 1Ux +1Uy +1Uz +1Uyy + U + UU
+ 1292 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + U
+ 1293 : 1Ux +1Uy +1Uz +1Uxx + U
+ 1294 : 1Ux +1Uy +1Uz +1Uxx + U + UxxUxx
+ 1295 : 1Ux +1Uy +1Uz +1Uxx + U + UzUxx
+ 1296 : 1Ux +1Uy +1Uz +1Uxx + U + UzUz
+ 1297 : 1Ux +1Uy +1Uz +1Uxx + U + UyUxx
+ 1298 : 1Ux +1Uy +1Uz +1Uxx + U + UyUz
+ 1299 : 1Ux +1Uy +1Uz +1Uxx + U + UyUy
+ 1300 : 1Ux +1Uy +1Uz +1Uxx + U + UxUxx
+ 1301 : 1Ux +1Uy +1Uz +1Uxx + U + UxUz
+ 1302 : 1Ux +1Uy +1Uz +1Uxx + U + UxUy
+ 1303 : 1Ux +1Uy +1Uz +1Uxx + U + UxUx
+ 1304 : 1Ux +1Uy +1Uz +1Uxx + U + UUxx
+ 1305 : 1Ux +1Uy +1Uz +1Uxx + U + UUz
+ 1306 : 1Ux +1Uy +1Uz +1Uxx + U + UUy
+ 1307 : 1Ux +1Uy +1Uz +1Uxx + U + UUx
+ 1308 : 1Ux +1Uy +1Uz +1Uxx + U + UU
+ 1309 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + U
+ 1310 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + U
+
+
+=====================================================
+FAMILY: parabolic   (count = 721)
+=====================================================
+
+    0 : 1Uzz + Ut
+    1 : 1Uzz + Ut + UU
+    2 : 1Uyy + Ut
+    3 : 1Uyy + Ut + UU
+    4 : 1Uyy +1Uzz + Ut
+    5 : 1Uyy +1Uzz + Ut + UU
+    6 : 1Uyy +1Uzz +1Uyz + Ut
+    7 : 1Uyy +1Uzz +1Uyz + Ut + UU
+    8 : 1Uxx + Ut
+    9 : 1Uxx + Ut + UU
+   10 : 1Uxx +1Uzz + Ut
+   11 : 1Uxx +1Uzz + Ut + UU
+   12 : 1Uxx +1Uzz +1Uxz + Ut
+   13 : 1Uxx +1Uzz +1Uxz + Ut + UU
+   14 : 1Uxx +1Uyy + Ut
+   15 : 1Uxx +1Uyy + Ut + UU
+   16 : 1Uxx +1Uyy +1Uxy + Ut
+   17 : 1Uxx +1Uyy +1Uxy + Ut + UU
+   18 : 1Uxx +1Uyy +1Uzz + Ut
+   19 : 1Uxx +1Uyy +1Uzz + Ut + UU
+   20 : 1Uxx +1Uyy +1Uzz +1Uyz + Ut
+   21 : 1Uxx +1Uyy +1Uzz +1Uyz + Ut + UU
+   22 : 1Uxx +1Uyy +1Uzz +1Uxz + Ut
+   23 : 1Uxx +1Uyy +1Uzz +1Uxz + Ut + UU
+   24 : 1Uxx +1Uyy +1Uzz +1Uxz +1Uyz + Ut
+   25 : 1Uxx +1Uyy +1Uzz +1Uxy + Ut
+   26 : 1Uxx +1Uyy +1Uzz +1Uxy + Ut + UU
+   27 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uyz + Ut
+   28 : 1Uxx +1Uyy +1Uzz +1Uxy +1Uxz + Ut
+   29 : 1Uz +1Uzz + Ut
+   30 : 1Uz +1Uzz + Ut + UzzUzz
+   31 : 1Uz +1Uzz + Ut + UzUzz
+   32 : 1Uz +1Uzz + Ut + UzUz
+   33 : 1Uz +1Uzz + Ut + UUzz
+   34 : 1Uz +1Uzz + Ut + UUz
+   35 : 1Uz +1Uzz + Ut + UU
+   36 : 1Uz +1Uyy + Ut
+   37 : 1Uz +1Uyy + Ut + UzUz
+   38 : 1Uz +1Uyy + Ut + UUz
+   39 : 1Uz +1Uyy + Ut + UU
+   40 : 1Uz +1Uyy +1Uzz + Ut
+   41 : 1Uz +1Uyy +1Uzz + Ut + UzzUzz
+   42 : 1Uz +1Uyy +1Uzz + Ut + UzUzz
+   43 : 1Uz +1Uyy +1Uzz + Ut + UzUz
+   44 : 1Uz +1Uyy +1Uzz + Ut + UUzz
+   45 : 1Uz +1Uyy +1Uzz + Ut + UUz
+   46 : 1Uz +1Uyy +1Uzz + Ut + UU
+   47 : 1Uz +1Uyy +1Uzz +1Uyz + Ut
+   48 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UzzUzz
+   49 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UzUzz
+   50 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UzUz
+   51 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UUzz
+   52 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UUz
+   53 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + UU
+   54 : 1Uz +1Uxx + Ut
+   55 : 1Uz +1Uxx + Ut + UzUz
+   56 : 1Uz +1Uxx + Ut + UUz
+   57 : 1Uz +1Uxx + Ut + UU
+   58 : 1Uz +1Uxx +1Uzz + Ut
+   59 : 1Uz +1Uxx +1Uzz + Ut + UzzUzz
+   60 : 1Uz +1Uxx +1Uzz + Ut + UzUzz
+   61 : 1Uz +1Uxx +1Uzz + Ut + UzUz
+   62 : 1Uz +1Uxx +1Uzz + Ut + UUzz
+   63 : 1Uz +1Uxx +1Uzz + Ut + UUz
+   64 : 1Uz +1Uxx +1Uzz + Ut + UU
+   65 : 1Uz +1Uxx +1Uzz +1Uxz + Ut
+   66 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UzzUzz
+   67 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UzUzz
+   68 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UzUz
+   69 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UUzz
+   70 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UUz
+   71 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + UU
+   72 : 1Uz +1Uxx +1Uyy + Ut
+   73 : 1Uz +1Uxx +1Uyy + Ut + UzUz
+   74 : 1Uz +1Uxx +1Uyy + Ut + UUz
+   75 : 1Uz +1Uxx +1Uyy + Ut + UU
+   76 : 1Uz +1Uxx +1Uyy +1Uxy + Ut
+   77 : 1Uz +1Uxx +1Uyy +1Uxy + Ut + UzUz
+   78 : 1Uz +1Uxx +1Uyy +1Uxy + Ut + UUz
+   79 : 1Uz +1Uxx +1Uyy +1Uxy + Ut + UU
+   80 : 1Uz +1Uxx +1Uyy +1Uzz + Ut
+   81 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UzzUzz
+   82 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UzUzz
+   83 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UzUz
+   84 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UUzz
+   85 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UUz
+   86 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + UU
+   87 : 1Uz +1Uxx +1Uyy +1Uzz +1Uyz + Ut
+   88 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxz + Ut
+   89 : 1Uz +1Uxx +1Uyy +1Uzz +1Uxy + Ut
+   90 : 1Uy +1Uzz + Ut
+   91 : 1Uy +1Uzz + Ut + UyUy
+   92 : 1Uy +1Uzz + Ut + UUy
+   93 : 1Uy +1Uzz + Ut + UU
+   94 : 1Uy +1Uyy + Ut
+   95 : 1Uy +1Uyy + Ut + UyyUyy
+   96 : 1Uy +1Uyy + Ut + UyUyy
+   97 : 1Uy +1Uyy + Ut + UyUy
+   98 : 1Uy +1Uyy + Ut + UUyy
+   99 : 1Uy +1Uyy + Ut + UUy
+  100 : 1Uy +1Uyy + Ut + UU
+  101 : 1Uy +1Uyy +1Uzz + Ut
+  102 : 1Uy +1Uyy +1Uzz + Ut + UyyUyy
+  103 : 1Uy +1Uyy +1Uzz + Ut + UyUyy
+  104 : 1Uy +1Uyy +1Uzz + Ut + UyUy
+  105 : 1Uy +1Uyy +1Uzz + Ut + UUyy
+  106 : 1Uy +1Uyy +1Uzz + Ut + UUy
+  107 : 1Uy +1Uyy +1Uzz + Ut + UU
+  108 : 1Uy +1Uyy +1Uzz +1Uyz + Ut
+  109 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyzUyz
+  110 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyyUyz
+  111 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyyUyy
+  112 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyUyz
+  113 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyUyy
+  114 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UyUy
+  115 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UUyz
+  116 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UUyy
+  117 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UUy
+  118 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + UU
+  119 : 1Uy +1Uxx + Ut
+  120 : 1Uy +1Uxx + Ut + UyUy
+  121 : 1Uy +1Uxx + Ut + UUy
+  122 : 1Uy +1Uxx + Ut + UU
+  123 : 1Uy +1Uxx +1Uzz + Ut
+  124 : 1Uy +1Uxx +1Uzz + Ut + UyUy
+  125 : 1Uy +1Uxx +1Uzz + Ut + UUy
+  126 : 1Uy +1Uxx +1Uzz + Ut + UU
+  127 : 1Uy +1Uxx +1Uzz +1Uxz + Ut
+  128 : 1Uy +1Uxx +1Uzz +1Uxz + Ut + UyUy
+  129 : 1Uy +1Uxx +1Uzz +1Uxz + Ut + UUy
+  130 : 1Uy +1Uxx +1Uzz +1Uxz + Ut + UU
+  131 : 1Uy +1Uxx +1Uyy + Ut
+  132 : 1Uy +1Uxx +1Uyy + Ut + UyyUyy
+  133 : 1Uy +1Uxx +1Uyy + Ut + UyUyy
+  134 : 1Uy +1Uxx +1Uyy + Ut + UyUy
+  135 : 1Uy +1Uxx +1Uyy + Ut + UUyy
+  136 : 1Uy +1Uxx +1Uyy + Ut + UUy
+  137 : 1Uy +1Uxx +1Uyy + Ut + UU
+  138 : 1Uy +1Uxx +1Uyy +1Uxy + Ut
+  139 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UyyUyy
+  140 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UyUyy
+  141 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UyUy
+  142 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UUyy
+  143 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UUy
+  144 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + UU
+  145 : 1Uy +1Uxx +1Uyy +1Uzz + Ut
+  146 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UyyUyy
+  147 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UyUyy
+  148 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UyUy
+  149 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UUyy
+  150 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UUy
+  151 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + UU
+  152 : 1Uy +1Uxx +1Uyy +1Uzz +1Uyz + Ut
+  153 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxz + Ut
+  154 : 1Uy +1Uxx +1Uyy +1Uzz +1Uxy + Ut
+  155 : 1Uy +1Uz +1Uzz + Ut
+  156 : 1Uy +1Uz +1Uzz + Ut + UzzUzz
+  157 : 1Uy +1Uz +1Uzz + Ut + UzUzz
+  158 : 1Uy +1Uz +1Uzz + Ut + UzUz
+  159 : 1Uy +1Uz +1Uzz + Ut + UyUzz
+  160 : 1Uy +1Uz +1Uzz + Ut + UyUz
+  161 : 1Uy +1Uz +1Uzz + Ut + UyUy
+  162 : 1Uy +1Uz +1Uzz + Ut + UUzz
+  163 : 1Uy +1Uz +1Uzz + Ut + UUz
+  164 : 1Uy +1Uz +1Uzz + Ut + UUy
+  165 : 1Uy +1Uz +1Uzz + Ut + UU
+  166 : 1Uy +1Uz +1Uyy + Ut
+  167 : 1Uy +1Uz +1Uyy + Ut + UyyUyy
+  168 : 1Uy +1Uz +1Uyy + Ut + UzUyy
+  169 : 1Uy +1Uz +1Uyy + Ut + UzUz
+  170 : 1Uy +1Uz +1Uyy + Ut + UyUyy
+  171 : 1Uy +1Uz +1Uyy + Ut + UyUz
+  172 : 1Uy +1Uz +1Uyy + Ut + UyUy
+  173 : 1Uy +1Uz +1Uyy + Ut + UUyy
+  174 : 1Uy +1Uz +1Uyy + Ut + UUz
+  175 : 1Uy +1Uz +1Uyy + Ut + UUy
+  176 : 1Uy +1Uz +1Uyy + Ut + UU
+  177 : 1Uy +1Uz +1Uyy +1Uzz + Ut
+  178 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UzzUzz
+  179 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyyUzz
+  180 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyyUyy
+  181 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UzUzz
+  182 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UzUyy
+  183 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UzUz
+  184 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyUzz
+  185 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyUyy
+  186 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyUz
+  187 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UyUy
+  188 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UUzz
+  189 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UUyy
+  190 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UUz
+  191 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UUy
+  192 : 1Uy +1Uz +1Uyy +1Uzz + Ut + UU
+  193 : 1Uy +1Uz +1Uyy +1Uzz +1Uyz + Ut
+  194 : 1Uy +1Uz +1Uxx + Ut
+  195 : 1Uy +1Uz +1Uxx + Ut + UzUz
+  196 : 1Uy +1Uz +1Uxx + Ut + UyUz
+  197 : 1Uy +1Uz +1Uxx + Ut + UyUy
+  198 : 1Uy +1Uz +1Uxx + Ut + UUz
+  199 : 1Uy +1Uz +1Uxx + Ut + UUy
+  200 : 1Uy +1Uz +1Uxx + Ut + UU
+  201 : 1Uy +1Uz +1Uxx +1Uzz + Ut
+  202 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UzzUzz
+  203 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UzUzz
+  204 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UzUz
+  205 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UyUzz
+  206 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UyUz
+  207 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UyUy
+  208 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UUzz
+  209 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UUz
+  210 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UUy
+  211 : 1Uy +1Uz +1Uxx +1Uzz + Ut + UU
+  212 : 1Uy +1Uz +1Uxx +1Uzz +1Uxz + Ut
+  213 : 1Uy +1Uz +1Uxx +1Uyy + Ut
+  214 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UyyUyy
+  215 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UzUyy
+  216 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UzUz
+  217 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UyUyy
+  218 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UyUz
+  219 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UyUy
+  220 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UUyy
+  221 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UUz
+  222 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UUy
+  223 : 1Uy +1Uz +1Uxx +1Uyy + Ut + UU
+  224 : 1Uy +1Uz +1Uxx +1Uyy +1Uxy + Ut
+  225 : 1Uy +1Uz +1Uxx +1Uyy +1Uzz + Ut
+  226 : 1Ux +1Uzz + Ut
+  227 : 1Ux +1Uzz + Ut + UxUx
+  228 : 1Ux +1Uzz + Ut + UUx
+  229 : 1Ux +1Uzz + Ut + UU
+  230 : 1Ux +1Uyy + Ut
+  231 : 1Ux +1Uyy + Ut + UxUx
+  232 : 1Ux +1Uyy + Ut + UUx
+  233 : 1Ux +1Uyy + Ut + UU
+  234 : 1Ux +1Uyy +1Uzz + Ut
+  235 : 1Ux +1Uyy +1Uzz + Ut + UxUx
+  236 : 1Ux +1Uyy +1Uzz + Ut + UUx
+  237 : 1Ux +1Uyy +1Uzz + Ut + UU
+  238 : 1Ux +1Uyy +1Uzz +1Uyz + Ut
+  239 : 1Ux +1Uyy +1Uzz +1Uyz + Ut + UxUx
+  240 : 1Ux +1Uyy +1Uzz +1Uyz + Ut + UUx
+  241 : 1Ux +1Uyy +1Uzz +1Uyz + Ut + UU
+  242 : 1Ux +1Uxx + Ut
+  243 : 1Ux +1Uxx + Ut + UxxUxx
+  244 : 1Ux +1Uxx + Ut + UxUxx
+  245 : 1Ux +1Uxx + Ut + UxUx
+  246 : 1Ux +1Uxx + Ut + UUxx
+  247 : 1Ux +1Uxx + Ut + UUx
+  248 : 1Ux +1Uxx + Ut + UU
+  249 : 1Ux +1Uxx +1Uzz + Ut
+  250 : 1Ux +1Uxx +1Uzz + Ut + UxxUxx
+  251 : 1Ux +1Uxx +1Uzz + Ut + UxUxx
+  252 : 1Ux +1Uxx +1Uzz + Ut + UxUx
+  253 : 1Ux +1Uxx +1Uzz + Ut + UUxx
+  254 : 1Ux +1Uxx +1Uzz + Ut + UUx
+  255 : 1Ux +1Uxx +1Uzz + Ut + UU
+  256 : 1Ux +1Uxx +1Uzz +1Uxz + Ut
+  257 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxzUxz
+  258 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxxUxz
+  259 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxxUxx
+  260 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxUxz
+  261 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxUxx
+  262 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UxUx
+  263 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UUxz
+  264 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UUxx
+  265 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UUx
+  266 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + UU
+  267 : 1Ux +1Uxx +1Uyy + Ut
+  268 : 1Ux +1Uxx +1Uyy + Ut + UxxUxx
+  269 : 1Ux +1Uxx +1Uyy + Ut + UxUxx
+  270 : 1Ux +1Uxx +1Uyy + Ut + UxUx
+  271 : 1Ux +1Uxx +1Uyy + Ut + UUxx
+  272 : 1Ux +1Uxx +1Uyy + Ut + UUx
+  273 : 1Ux +1Uxx +1Uyy + Ut + UU
+  274 : 1Ux +1Uxx +1Uyy +1Uxy + Ut
+  275 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxyUxy
+  276 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxxUxy
+  277 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxxUxx
+  278 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxUxy
+  279 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxUxx
+  280 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UxUx
+  281 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UUxy
+  282 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UUxx
+  283 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UUx
+  284 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + UU
+  285 : 1Ux +1Uxx +1Uyy +1Uzz + Ut
+  286 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UxxUxx
+  287 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UxUxx
+  288 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UxUx
+  289 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UUxx
+  290 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UUx
+  291 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + UU
+  292 : 1Ux +1Uxx +1Uyy +1Uzz +1Uyz + Ut
+  293 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxz + Ut
+  294 : 1Ux +1Uxx +1Uyy +1Uzz +1Uxy + Ut
+  295 : 1Ux +1Uz +1Uzz + Ut
+  296 : 1Ux +1Uz +1Uzz + Ut + UzzUzz
+  297 : 1Ux +1Uz +1Uzz + Ut + UzUzz
+  298 : 1Ux +1Uz +1Uzz + Ut + UzUz
+  299 : 1Ux +1Uz +1Uzz + Ut + UxUzz
+  300 : 1Ux +1Uz +1Uzz + Ut + UxUz
+  301 : 1Ux +1Uz +1Uzz + Ut + UxUx
+  302 : 1Ux +1Uz +1Uzz + Ut + UUzz
+  303 : 1Ux +1Uz +1Uzz + Ut + UUz
+  304 : 1Ux +1Uz +1Uzz + Ut + UUx
+  305 : 1Ux +1Uz +1Uzz + Ut + UU
+  306 : 1Ux +1Uz +1Uyy + Ut
+  307 : 1Ux +1Uz +1Uyy + Ut + UzUz
+  308 : 1Ux +1Uz +1Uyy + Ut + UxUz
+  309 : 1Ux +1Uz +1Uyy + Ut + UxUx
+  310 : 1Ux +1Uz +1Uyy + Ut + UUz
+  311 : 1Ux +1Uz +1Uyy + Ut + UUx
+  312 : 1Ux +1Uz +1Uyy + Ut + UU
+  313 : 1Ux +1Uz +1Uyy +1Uzz + Ut
+  314 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UzzUzz
+  315 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UzUzz
+  316 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UzUz
+  317 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UxUzz
+  318 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UxUz
+  319 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UxUx
+  320 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UUzz
+  321 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UUz
+  322 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UUx
+  323 : 1Ux +1Uz +1Uyy +1Uzz + Ut + UU
+  324 : 1Ux +1Uz +1Uyy +1Uzz +1Uyz + Ut
+  325 : 1Ux +1Uz +1Uxx + Ut
+  326 : 1Ux +1Uz +1Uxx + Ut + UxxUxx
+  327 : 1Ux +1Uz +1Uxx + Ut + UzUxx
+  328 : 1Ux +1Uz +1Uxx + Ut + UzUz
+  329 : 1Ux +1Uz +1Uxx + Ut + UxUxx
+  330 : 1Ux +1Uz +1Uxx + Ut + UxUz
+  331 : 1Ux +1Uz +1Uxx + Ut + UxUx
+  332 : 1Ux +1Uz +1Uxx + Ut + UUxx
+  333 : 1Ux +1Uz +1Uxx + Ut + UUz
+  334 : 1Ux +1Uz +1Uxx + Ut + UUx
+  335 : 1Ux +1Uz +1Uxx + Ut + UU
+  336 : 1Ux +1Uz +1Uxx +1Uzz + Ut
+  337 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UzzUzz
+  338 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxxUzz
+  339 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxxUxx
+  340 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UzUzz
+  341 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UzUxx
+  342 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UzUz
+  343 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxUzz
+  344 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxUxx
+  345 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxUz
+  346 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UxUx
+  347 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UUzz
+  348 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UUxx
+  349 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UUz
+  350 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UUx
+  351 : 1Ux +1Uz +1Uxx +1Uzz + Ut + UU
+  352 : 1Ux +1Uz +1Uxx +1Uzz +1Uxz + Ut
+  353 : 1Ux +1Uz +1Uxx +1Uyy + Ut
+  354 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UxxUxx
+  355 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UzUxx
+  356 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UzUz
+  357 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UxUxx
+  358 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UxUz
+  359 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UxUx
+  360 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UUxx
+  361 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UUz
+  362 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UUx
+  363 : 1Ux +1Uz +1Uxx +1Uyy + Ut + UU
+  364 : 1Ux +1Uz +1Uxx +1Uyy +1Uxy + Ut
+  365 : 1Ux +1Uz +1Uxx +1Uyy +1Uzz + Ut
+  366 : 1Ux +1Uy +1Uzz + Ut
+  367 : 1Ux +1Uy +1Uzz + Ut + UyUy
+  368 : 1Ux +1Uy +1Uzz + Ut + UxUy
+  369 : 1Ux +1Uy +1Uzz + Ut + UxUx
+  370 : 1Ux +1Uy +1Uzz + Ut + UUy
+  371 : 1Ux +1Uy +1Uzz + Ut + UUx
+  372 : 1Ux +1Uy +1Uzz + Ut + UU
+  373 : 1Ux +1Uy +1Uyy + Ut
+  374 : 1Ux +1Uy +1Uyy + Ut + UyyUyy
+  375 : 1Ux +1Uy +1Uyy + Ut + UyUyy
+  376 : 1Ux +1Uy +1Uyy + Ut + UyUy
+  377 : 1Ux +1Uy +1Uyy + Ut + UxUyy
+  378 : 1Ux +1Uy +1Uyy + Ut + UxUy
+  379 : 1Ux +1Uy +1Uyy + Ut + UxUx
+  380 : 1Ux +1Uy +1Uyy + Ut + UUyy
+  381 : 1Ux +1Uy +1Uyy + Ut + UUy
+  382 : 1Ux +1Uy +1Uyy + Ut + UUx
+  383 : 1Ux +1Uy +1Uyy + Ut + UU
+  384 : 1Ux +1Uy +1Uyy +1Uzz + Ut
+  385 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UyyUyy
+  386 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UyUyy
+  387 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UyUy
+  388 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UxUyy
+  389 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UxUy
+  390 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UxUx
+  391 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UUyy
+  392 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UUy
+  393 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UUx
+  394 : 1Ux +1Uy +1Uyy +1Uzz + Ut + UU
+  395 : 1Ux +1Uy +1Uyy +1Uzz +1Uyz + Ut
+  396 : 1Ux +1Uy +1Uxx + Ut
+  397 : 1Ux +1Uy +1Uxx + Ut + UxxUxx
+  398 : 1Ux +1Uy +1Uxx + Ut + UyUxx
+  399 : 1Ux +1Uy +1Uxx + Ut + UyUy
+  400 : 1Ux +1Uy +1Uxx + Ut + UxUxx
+  401 : 1Ux +1Uy +1Uxx + Ut + UxUy
+  402 : 1Ux +1Uy +1Uxx + Ut + UxUx
+  403 : 1Ux +1Uy +1Uxx + Ut + UUxx
+  404 : 1Ux +1Uy +1Uxx + Ut + UUy
+  405 : 1Ux +1Uy +1Uxx + Ut + UUx
+  406 : 1Ux +1Uy +1Uxx + Ut + UU
+  407 : 1Ux +1Uy +1Uxx +1Uzz + Ut
+  408 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UxxUxx
+  409 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UyUxx
+  410 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UyUy
+  411 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UxUxx
+  412 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UxUy
+  413 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UxUx
+  414 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UUxx
+  415 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UUy
+  416 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UUx
+  417 : 1Ux +1Uy +1Uxx +1Uzz + Ut + UU
+  418 : 1Ux +1Uy +1Uxx +1Uzz +1Uxz + Ut
+  419 : 1Ux +1Uy +1Uxx +1Uyy + Ut
+  420 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UyyUyy
+  421 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxxUyy
+  422 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxxUxx
+  423 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UyUyy
+  424 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UyUxx
+  425 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UyUy
+  426 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxUyy
+  427 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxUxx
+  428 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxUy
+  429 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UxUx
+  430 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UUyy
+  431 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UUxx
+  432 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UUy
+  433 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UUx
+  434 : 1Ux +1Uy +1Uxx +1Uyy + Ut + UU
+  435 : 1Ux +1Uy +1Uxx +1Uyy +1Uxy + Ut
+  436 : 1Ux +1Uy +1Uxx +1Uyy +1Uzz + Ut
+  437 : 1Ux +1Uy +1Uz +1Uzz + Ut
+  438 : 1Ux +1Uy +1Uz +1Uzz + Ut + UzzUzz
+  439 : 1Ux +1Uy +1Uz +1Uzz + Ut + UzUzz
+  440 : 1Ux +1Uy +1Uz +1Uzz + Ut + UzUz
+  441 : 1Ux +1Uy +1Uz +1Uzz + Ut + UyUzz
+  442 : 1Ux +1Uy +1Uz +1Uzz + Ut + UyUz
+  443 : 1Ux +1Uy +1Uz +1Uzz + Ut + UyUy
+  444 : 1Ux +1Uy +1Uz +1Uzz + Ut + UxUzz
+  445 : 1Ux +1Uy +1Uz +1Uzz + Ut + UxUz
+  446 : 1Ux +1Uy +1Uz +1Uzz + Ut + UxUy
+  447 : 1Ux +1Uy +1Uz +1Uzz + Ut + UxUx
+  448 : 1Ux +1Uy +1Uz +1Uzz + Ut + UUzz
+  449 : 1Ux +1Uy +1Uz +1Uzz + Ut + UUz
+  450 : 1Ux +1Uy +1Uz +1Uzz + Ut + UUy
+  451 : 1Ux +1Uy +1Uz +1Uzz + Ut + UUx
+  452 : 1Ux +1Uy +1Uz +1Uzz + Ut + UU
+  453 : 1Ux +1Uy +1Uz +1Uyy + Ut
+  454 : 1Ux +1Uy +1Uz +1Uyy + Ut + UyyUyy
+  455 : 1Ux +1Uy +1Uz +1Uyy + Ut + UzUyy
+  456 : 1Ux +1Uy +1Uz +1Uyy + Ut + UzUz
+  457 : 1Ux +1Uy +1Uz +1Uyy + Ut + UyUyy
+  458 : 1Ux +1Uy +1Uz +1Uyy + Ut + UyUz
+  459 : 1Ux +1Uy +1Uz +1Uyy + Ut + UyUy
+  460 : 1Ux +1Uy +1Uz +1Uyy + Ut + UxUyy
+  461 : 1Ux +1Uy +1Uz +1Uyy + Ut + UxUz
+  462 : 1Ux +1Uy +1Uz +1Uyy + Ut + UxUy
+  463 : 1Ux +1Uy +1Uz +1Uyy + Ut + UxUx
+  464 : 1Ux +1Uy +1Uz +1Uyy + Ut + UUyy
+  465 : 1Ux +1Uy +1Uz +1Uyy + Ut + UUz
+  466 : 1Ux +1Uy +1Uz +1Uyy + Ut + UUy
+  467 : 1Ux +1Uy +1Uz +1Uyy + Ut + UUx
+  468 : 1Ux +1Uy +1Uz +1Uyy + Ut + UU
+  469 : 1Ux +1Uy +1Uz +1Uyy +1Uzz + Ut
+  470 : 1Ux +1Uy +1Uz +1Uxx + Ut
+  471 : 1Ux +1Uy +1Uz +1Uxx + Ut + UxxUxx
+  472 : 1Ux +1Uy +1Uz +1Uxx + Ut + UzUxx
+  473 : 1Ux +1Uy +1Uz +1Uxx + Ut + UzUz
+  474 : 1Ux +1Uy +1Uz +1Uxx + Ut + UyUxx
+  475 : 1Ux +1Uy +1Uz +1Uxx + Ut + UyUz
+  476 : 1Ux +1Uy +1Uz +1Uxx + Ut + UyUy
+  477 : 1Ux +1Uy +1Uz +1Uxx + Ut + UxUxx
+  478 : 1Ux +1Uy +1Uz +1Uxx + Ut + UxUz
+  479 : 1Ux +1Uy +1Uz +1Uxx + Ut + UxUy
+  480 : 1Ux +1Uy +1Uz +1Uxx + Ut + UxUx
+  481 : 1Ux +1Uy +1Uz +1Uxx + Ut + UUxx
+  482 : 1Ux +1Uy +1Uz +1Uxx + Ut + UUz
+  483 : 1Ux +1Uy +1Uz +1Uxx + Ut + UUy
+  484 : 1Ux +1Uy +1Uz +1Uxx + Ut + UUx
+  485 : 1Ux +1Uy +1Uz +1Uxx + Ut + UU
+  486 : 1Ux +1Uy +1Uz +1Uxx +1Uzz + Ut
+  487 : 1Ux +1Uy +1Uz +1Uxx +1Uyy + Ut
+  488 : 1Uzz + Ut + U
+  489 : 1Uzz + Ut + U + UU
+  490 : 1Uyy + Ut + U
+  491 : 1Uyy + Ut + U + UU
+  492 : 1Uyy +1Uzz + Ut + U
+  493 : 1Uyy +1Uzz + Ut + U + UU
+  494 : 1Uyy +1Uzz +1Uyz + Ut + U
+  495 : 1Uyy +1Uzz +1Uyz + Ut + U + UU
+  496 : 1Uxx + Ut + U
+  497 : 1Uxx + Ut + U + UU
+  498 : 1Uxx +1Uzz + Ut + U
+  499 : 1Uxx +1Uzz + Ut + U + UU
+  500 : 1Uxx +1Uzz +1Uxz + Ut + U
+  501 : 1Uxx +1Uzz +1Uxz + Ut + U + UU
+  502 : 1Uxx +1Uyy + Ut + U
+  503 : 1Uxx +1Uyy + Ut + U + UU
+  504 : 1Uxx +1Uyy +1Uxy + Ut + U
+  505 : 1Uxx +1Uyy +1Uxy + Ut + U + UU
+  506 : 1Uxx +1Uyy +1Uzz + Ut + U
+  507 : 1Uxx +1Uyy +1Uzz + Ut + U + UU
+  508 : 1Uxx +1Uyy +1Uzz +1Uyz + Ut + U
+  509 : 1Uxx +1Uyy +1Uzz +1Uxz + Ut + U
+  510 : 1Uxx +1Uyy +1Uzz +1Uxy + Ut + U
+  511 : 1Uz +1Uzz + Ut + U
+  512 : 1Uz +1Uzz + Ut + U + UzzUzz
+  513 : 1Uz +1Uzz + Ut + U + UzUzz
+  514 : 1Uz +1Uzz + Ut + U + UzUz
+  515 : 1Uz +1Uzz + Ut + U + UUzz
+  516 : 1Uz +1Uzz + Ut + U + UUz
+  517 : 1Uz +1Uzz + Ut + U + UU
+  518 : 1Uz +1Uyy + Ut + U
+  519 : 1Uz +1Uyy + Ut + U + UzUz
+  520 : 1Uz +1Uyy + Ut + U + UUz
+  521 : 1Uz +1Uyy + Ut + U + UU
+  522 : 1Uz +1Uyy +1Uzz + Ut + U
+  523 : 1Uz +1Uyy +1Uzz + Ut + U + UzzUzz
+  524 : 1Uz +1Uyy +1Uzz + Ut + U + UzUzz
+  525 : 1Uz +1Uyy +1Uzz + Ut + U + UzUz
+  526 : 1Uz +1Uyy +1Uzz + Ut + U + UUzz
+  527 : 1Uz +1Uyy +1Uzz + Ut + U + UUz
+  528 : 1Uz +1Uyy +1Uzz + Ut + U + UU
+  529 : 1Uz +1Uyy +1Uzz +1Uyz + Ut + U
+  530 : 1Uz +1Uxx + Ut + U
+  531 : 1Uz +1Uxx + Ut + U + UzUz
+  532 : 1Uz +1Uxx + Ut + U + UUz
+  533 : 1Uz +1Uxx + Ut + U + UU
+  534 : 1Uz +1Uxx +1Uzz + Ut + U
+  535 : 1Uz +1Uxx +1Uzz + Ut + U + UzzUzz
+  536 : 1Uz +1Uxx +1Uzz + Ut + U + UzUzz
+  537 : 1Uz +1Uxx +1Uzz + Ut + U + UzUz
+  538 : 1Uz +1Uxx +1Uzz + Ut + U + UUzz
+  539 : 1Uz +1Uxx +1Uzz + Ut + U + UUz
+  540 : 1Uz +1Uxx +1Uzz + Ut + U + UU
+  541 : 1Uz +1Uxx +1Uzz +1Uxz + Ut + U
+  542 : 1Uz +1Uxx +1Uyy + Ut + U
+  543 : 1Uz +1Uxx +1Uyy + Ut + U + UzUz
+  544 : 1Uz +1Uxx +1Uyy + Ut + U + UUz
+  545 : 1Uz +1Uxx +1Uyy + Ut + U + UU
+  546 : 1Uz +1Uxx +1Uyy +1Uxy + Ut + U
+  547 : 1Uz +1Uxx +1Uyy +1Uzz + Ut + U
+  548 : 1Uy +1Uzz + Ut + U
+  549 : 1Uy +1Uzz + Ut + U + UyUy
+  550 : 1Uy +1Uzz + Ut + U + UUy
+  551 : 1Uy +1Uzz + Ut + U + UU
+  552 : 1Uy +1Uyy + Ut + U
+  553 : 1Uy +1Uyy + Ut + U + UyyUyy
+  554 : 1Uy +1Uyy + Ut + U + UyUyy
+  555 : 1Uy +1Uyy + Ut + U + UyUy
+  556 : 1Uy +1Uyy + Ut + U + UUyy
+  557 : 1Uy +1Uyy + Ut + U + UUy
+  558 : 1Uy +1Uyy + Ut + U + UU
+  559 : 1Uy +1Uyy +1Uzz + Ut + U
+  560 : 1Uy +1Uyy +1Uzz + Ut + U + UyyUyy
+  561 : 1Uy +1Uyy +1Uzz + Ut + U + UyUyy
+  562 : 1Uy +1Uyy +1Uzz + Ut + U + UyUy
+  563 : 1Uy +1Uyy +1Uzz + Ut + U + UUyy
+  564 : 1Uy +1Uyy +1Uzz + Ut + U + UUy
+  565 : 1Uy +1Uyy +1Uzz + Ut + U + UU
+  566 : 1Uy +1Uyy +1Uzz +1Uyz + Ut + U
+  567 : 1Uy +1Uxx + Ut + U
+  568 : 1Uy +1Uxx + Ut + U + UyUy
+  569 : 1Uy +1Uxx + Ut + U + UUy
+  570 : 1Uy +1Uxx + Ut + U + UU
+  571 : 1Uy +1Uxx +1Uzz + Ut + U
+  572 : 1Uy +1Uxx +1Uzz + Ut + U + UyUy
+  573 : 1Uy +1Uxx +1Uzz + Ut + U + UUy
+  574 : 1Uy +1Uxx +1Uzz + Ut + U + UU
+  575 : 1Uy +1Uxx +1Uzz +1Uxz + Ut + U
+  576 : 1Uy +1Uxx +1Uyy + Ut + U
+  577 : 1Uy +1Uxx +1Uyy + Ut + U + UyyUyy
+  578 : 1Uy +1Uxx +1Uyy + Ut + U + UyUyy
+  579 : 1Uy +1Uxx +1Uyy + Ut + U + UyUy
+  580 : 1Uy +1Uxx +1Uyy + Ut + U + UUyy
+  581 : 1Uy +1Uxx +1Uyy + Ut + U + UUy
+  582 : 1Uy +1Uxx +1Uyy + Ut + U + UU
+  583 : 1Uy +1Uxx +1Uyy +1Uxy + Ut + U
+  584 : 1Uy +1Uxx +1Uyy +1Uzz + Ut + U
+  585 : 1Uy +1Uz +1Uzz + Ut + U
+  586 : 1Uy +1Uz +1Uzz + Ut + U + UzzUzz
+  587 : 1Uy +1Uz +1Uzz + Ut + U + UzUzz
+  588 : 1Uy +1Uz +1Uzz + Ut + U + UzUz
+  589 : 1Uy +1Uz +1Uzz + Ut + U + UyUzz
+  590 : 1Uy +1Uz +1Uzz + Ut + U + UyUz
+  591 : 1Uy +1Uz +1Uzz + Ut + U + UyUy
+  592 : 1Uy +1Uz +1Uzz + Ut + U + UUzz
+  593 : 1Uy +1Uz +1Uzz + Ut + U + UUz
+  594 : 1Uy +1Uz +1Uzz + Ut + U + UUy
+  595 : 1Uy +1Uz +1Uzz + Ut + U + UU
+  596 : 1Uy +1Uz +1Uyy + Ut + U
+  597 : 1Uy +1Uz +1Uyy + Ut + U + UyyUyy
+  598 : 1Uy +1Uz +1Uyy + Ut + U + UzUyy
+  599 : 1Uy +1Uz +1Uyy + Ut + U + UzUz
+  600 : 1Uy +1Uz +1Uyy + Ut + U + UyUyy
+  601 : 1Uy +1Uz +1Uyy + Ut + U + UyUz
+  602 : 1Uy +1Uz +1Uyy + Ut + U + UyUy
+  603 : 1Uy +1Uz +1Uyy + Ut + U + UUyy
+  604 : 1Uy +1Uz +1Uyy + Ut + U + UUz
+  605 : 1Uy +1Uz +1Uyy + Ut + U + UUy
+  606 : 1Uy +1Uz +1Uyy + Ut + U + UU
+  607 : 1Uy +1Uz +1Uyy +1Uzz + Ut + U
+  608 : 1Uy +1Uz +1Uxx + Ut + U
+  609 : 1Uy +1Uz +1Uxx + Ut + U + UzUz
+  610 : 1Uy +1Uz +1Uxx + Ut + U + UyUz
+  611 : 1Uy +1Uz +1Uxx + Ut + U + UyUy
+  612 : 1Uy +1Uz +1Uxx + Ut + U + UUz
+  613 : 1Uy +1Uz +1Uxx + Ut + U + UUy
+  614 : 1Uy +1Uz +1Uxx + Ut + U + UU
+  615 : 1Uy +1Uz +1Uxx +1Uzz + Ut + U
+  616 : 1Uy +1Uz +1Uxx +1Uyy + Ut + U
+  617 : 1Ux +1Uzz + Ut + U
+  618 : 1Ux +1Uzz + Ut + U + UxUx
+  619 : 1Ux +1Uzz + Ut + U + UUx
+  620 : 1Ux +1Uzz + Ut + U + UU
+  621 : 1Ux +1Uyy + Ut + U
+  622 : 1Ux +1Uyy + Ut + U + UxUx
+  623 : 1Ux +1Uyy + Ut + U + UUx
+  624 : 1Ux +1Uyy + Ut + U + UU
+  625 : 1Ux +1Uyy +1Uzz + Ut + U
+  626 : 1Ux +1Uyy +1Uzz + Ut + U + UxUx
+  627 : 1Ux +1Uyy +1Uzz + Ut + U + UUx
+  628 : 1Ux +1Uyy +1Uzz + Ut + U + UU
+  629 : 1Ux +1Uyy +1Uzz +1Uyz + Ut + U
+  630 : 1Ux +1Uxx + Ut + U
+  631 : 1Ux +1Uxx + Ut + U + UxxUxx
+  632 : 1Ux +1Uxx + Ut + U + UxUxx
+  633 : 1Ux +1Uxx + Ut + U + UxUx
+  634 : 1Ux +1Uxx + Ut + U + UUxx
+  635 : 1Ux +1Uxx + Ut + U + UUx
+  636 : 1Ux +1Uxx + Ut + U + UU
+  637 : 1Ux +1Uxx +1Uzz + Ut + U
+  638 : 1Ux +1Uxx +1Uzz + Ut + U + UxxUxx
+  639 : 1Ux +1Uxx +1Uzz + Ut + U + UxUxx
+  640 : 1Ux +1Uxx +1Uzz + Ut + U + UxUx
+  641 : 1Ux +1Uxx +1Uzz + Ut + U + UUxx
+  642 : 1Ux +1Uxx +1Uzz + Ut + U + UUx
+  643 : 1Ux +1Uxx +1Uzz + Ut + U + UU
+  644 : 1Ux +1Uxx +1Uzz +1Uxz + Ut + U
+  645 : 1Ux +1Uxx +1Uyy + Ut + U
+  646 : 1Ux +1Uxx +1Uyy + Ut + U + UxxUxx
+  647 : 1Ux +1Uxx +1Uyy + Ut + U + UxUxx
+  648 : 1Ux +1Uxx +1Uyy + Ut + U + UxUx
+  649 : 1Ux +1Uxx +1Uyy + Ut + U + UUxx
+  650 : 1Ux +1Uxx +1Uyy + Ut + U + UUx
+  651 : 1Ux +1Uxx +1Uyy + Ut + U + UU
+  652 : 1Ux +1Uxx +1Uyy +1Uxy + Ut + U
+  653 : 1Ux +1Uxx +1Uyy +1Uzz + Ut + U
+  654 : 1Ux +1Uz +1Uzz + Ut + U
+  655 : 1Ux +1Uz +1Uzz + Ut + U + UzzUzz
+  656 : 1Ux +1Uz +1Uzz + Ut + U + UzUzz
+  657 : 1Ux +1Uz +1Uzz + Ut + U + UzUz
+  658 : 1Ux +1Uz +1Uzz + Ut + U + UxUzz
+  659 : 1Ux +1Uz +1Uzz + Ut + U + UxUz
+  660 : 1Ux +1Uz +1Uzz + Ut + U + UxUx
+  661 : 1Ux +1Uz +1Uzz + Ut + U + UUzz
+  662 : 1Ux +1Uz +1Uzz + Ut + U + UUz
+  663 : 1Ux +1Uz +1Uzz + Ut + U + UUx
+  664 : 1Ux +1Uz +1Uzz + Ut + U + UU
+  665 : 1Ux +1Uz +1Uyy + Ut + U
+  666 : 1Ux +1Uz +1Uyy + Ut + U + UzUz
+  667 : 1Ux +1Uz +1Uyy + Ut + U + UxUz
+  668 : 1Ux +1Uz +1Uyy + Ut + U + UxUx
+  669 : 1Ux +1Uz +1Uyy + Ut + U + UUz
+  670 : 1Ux +1Uz +1Uyy + Ut + U + UUx
+  671 : 1Ux +1Uz +1Uyy + Ut + U + UU
+  672 : 1Ux +1Uz +1Uyy +1Uzz + Ut + U
+  673 : 1Ux +1Uz +1Uxx + Ut + U
+  674 : 1Ux +1Uz +1Uxx + Ut + U + UxxUxx
+  675 : 1Ux +1Uz +1Uxx + Ut + U + UzUxx
+  676 : 1Ux +1Uz +1Uxx + Ut + U + UzUz
+  677 : 1Ux +1Uz +1Uxx + Ut + U + UxUxx
+  678 : 1Ux +1Uz +1Uxx + Ut + U + UxUz
+  679 : 1Ux +1Uz +1Uxx + Ut + U + UxUx
+  680 : 1Ux +1Uz +1Uxx + Ut + U + UUxx
+  681 : 1Ux +1Uz +1Uxx + Ut + U + UUz
+  682 : 1Ux +1Uz +1Uxx + Ut + U + UUx
+  683 : 1Ux +1Uz +1Uxx + Ut + U + UU
+  684 : 1Ux +1Uz +1Uxx +1Uzz + Ut + U
+  685 : 1Ux +1Uz +1Uxx +1Uyy + Ut + U
+  686 : 1Ux +1Uy +1Uzz + Ut + U
+  687 : 1Ux +1Uy +1Uzz + Ut + U + UyUy
+  688 : 1Ux +1Uy +1Uzz + Ut + U + UxUy
+  689 : 1Ux +1Uy +1Uzz + Ut + U + UxUx
+  690 : 1Ux +1Uy +1Uzz + Ut + U + UUy
+  691 : 1Ux +1Uy +1Uzz + Ut + U + UUx
+  692 : 1Ux +1Uy +1Uzz + Ut + U + UU
+  693 : 1Ux +1Uy +1Uyy + Ut + U
+  694 : 1Ux +1Uy +1Uyy + Ut + U + UyyUyy
+  695 : 1Ux +1Uy +1Uyy + Ut + U + UyUyy
+  696 : 1Ux +1Uy +1Uyy + Ut + U + UyUy
+  697 : 1Ux +1Uy +1Uyy + Ut + U + UxUyy
+  698 : 1Ux +1Uy +1Uyy + Ut + U + UxUy
+  699 : 1Ux +1Uy +1Uyy + Ut + U + UxUx
+  700 : 1Ux +1Uy +1Uyy + Ut + U + UUyy
+  701 : 1Ux +1Uy +1Uyy + Ut + U + UUy
+  702 : 1Ux +1Uy +1Uyy + Ut + U + UUx
+  703 : 1Ux +1Uy +1Uyy + Ut + U + UU
+  704 : 1Ux +1Uy +1Uyy +1Uzz + Ut + U
+  705 : 1Ux +1Uy +1Uxx + Ut + U
+  706 : 1Ux +1Uy +1Uxx + Ut + U + UxxUxx
+  707 : 1Ux +1Uy +1Uxx + Ut + U + UyUxx
+  708 : 1Ux +1Uy +1Uxx + Ut + U + UyUy
+  709 : 1Ux +1Uy +1Uxx + Ut + U + UxUxx
+  710 : 1Ux +1Uy +1Uxx + Ut + U + UxUy
+  711 : 1Ux +1Uy +1Uxx + Ut + U + UxUx
+  712 : 1Ux +1Uy +1Uxx + Ut + U + UUxx
+  713 : 1Ux +1Uy +1Uxx + Ut + U + UUy
+  714 : 1Ux +1Uy +1Uxx + Ut + U + UUx
+  715 : 1Ux +1Uy +1Uxx + Ut + U + UU
+  716 : 1Ux +1Uy +1Uxx +1Uzz + Ut + U
+  717 : 1Ux +1Uy +1Uxx +1Uyy + Ut + U
+  718 : 1Ux +1Uy +1Uz +1Uzz + Ut + U
+  719 : 1Ux +1Uy +1Uz +1Uyy + Ut + U
+  720 : 1Ux +1Uy +1Uz +1Uxx + Ut + U
+
+
+=====================================================
+FAMILY: hyperbolic   (count = 721)
+=====================================================
+
+    0 : 1Utt +1Uzz
+    1 : 1Utt +1Uzz + UU
+    2 : 1Utt +1Uyy
+    3 : 1Utt +1Uyy + UU
+    4 : 1Utt +1Uyy +1Uzz
+    5 : 1Utt +1Uyy +1Uzz + UU
+    6 : 1Utt +1Uyy +1Uzz +1Uyz
+    7 : 1Utt +1Uyy +1Uzz +1Uyz + UU
+    8 : 1Utt +1Uxx
+    9 : 1Utt +1Uxx + UU
+   10 : 1Utt +1Uxx +1Uzz
+   11 : 1Utt +1Uxx +1Uzz + UU
+   12 : 1Utt +1Uxx +1Uzz +1Uxz
+   13 : 1Utt +1Uxx +1Uzz +1Uxz + UU
+   14 : 1Utt +1Uxx +1Uyy
+   15 : 1Utt +1Uxx +1Uyy + UU
+   16 : 1Utt +1Uxx +1Uyy +1Uxy
+   17 : 1Utt +1Uxx +1Uyy +1Uxy + UU
+   18 : 1Utt +1Uxx +1Uyy +1Uzz
+   19 : 1Utt +1Uxx +1Uyy +1Uzz + UU
+   20 : 1Utt +1Uxx +1Uyy +1Uzz +1Uyz
+   21 : 1Utt +1Uxx +1Uyy +1Uzz +1Uyz + UU
+   22 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxz
+   23 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxz + UU
+   24 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxz +1Uyz
+   25 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxy
+   26 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxy + UU
+   27 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxy +1Uyz
+   28 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxy +1Uxz
+   29 : 1Utt +1Uz +1Uzz
+   30 : 1Utt +1Uz +1Uzz + UzzUzz
+   31 : 1Utt +1Uz +1Uzz + UzUzz
+   32 : 1Utt +1Uz +1Uzz + UzUz
+   33 : 1Utt +1Uz +1Uzz + UUzz
+   34 : 1Utt +1Uz +1Uzz + UUz
+   35 : 1Utt +1Uz +1Uzz + UU
+   36 : 1Utt +1Uz +1Uyy
+   37 : 1Utt +1Uz +1Uyy + UzUz
+   38 : 1Utt +1Uz +1Uyy + UUz
+   39 : 1Utt +1Uz +1Uyy + UU
+   40 : 1Utt +1Uz +1Uyy +1Uzz
+   41 : 1Utt +1Uz +1Uyy +1Uzz + UzzUzz
+   42 : 1Utt +1Uz +1Uyy +1Uzz + UzUzz
+   43 : 1Utt +1Uz +1Uyy +1Uzz + UzUz
+   44 : 1Utt +1Uz +1Uyy +1Uzz + UUzz
+   45 : 1Utt +1Uz +1Uyy +1Uzz + UUz
+   46 : 1Utt +1Uz +1Uyy +1Uzz + UU
+   47 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz
+   48 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UzzUzz
+   49 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UzUzz
+   50 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UzUz
+   51 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UUzz
+   52 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UUz
+   53 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + UU
+   54 : 1Utt +1Uz +1Uxx
+   55 : 1Utt +1Uz +1Uxx + UzUz
+   56 : 1Utt +1Uz +1Uxx + UUz
+   57 : 1Utt +1Uz +1Uxx + UU
+   58 : 1Utt +1Uz +1Uxx +1Uzz
+   59 : 1Utt +1Uz +1Uxx +1Uzz + UzzUzz
+   60 : 1Utt +1Uz +1Uxx +1Uzz + UzUzz
+   61 : 1Utt +1Uz +1Uxx +1Uzz + UzUz
+   62 : 1Utt +1Uz +1Uxx +1Uzz + UUzz
+   63 : 1Utt +1Uz +1Uxx +1Uzz + UUz
+   64 : 1Utt +1Uz +1Uxx +1Uzz + UU
+   65 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz
+   66 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UzzUzz
+   67 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UzUzz
+   68 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UzUz
+   69 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UUzz
+   70 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UUz
+   71 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + UU
+   72 : 1Utt +1Uz +1Uxx +1Uyy
+   73 : 1Utt +1Uz +1Uxx +1Uyy + UzUz
+   74 : 1Utt +1Uz +1Uxx +1Uyy + UUz
+   75 : 1Utt +1Uz +1Uxx +1Uyy + UU
+   76 : 1Utt +1Uz +1Uxx +1Uyy +1Uxy
+   77 : 1Utt +1Uz +1Uxx +1Uyy +1Uxy + UzUz
+   78 : 1Utt +1Uz +1Uxx +1Uyy +1Uxy + UUz
+   79 : 1Utt +1Uz +1Uxx +1Uyy +1Uxy + UU
+   80 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz
+   81 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UzzUzz
+   82 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UzUzz
+   83 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UzUz
+   84 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UUzz
+   85 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UUz
+   86 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + UU
+   87 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz +1Uyz
+   88 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz +1Uxz
+   89 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz +1Uxy
+   90 : 1Utt +1Uy +1Uzz
+   91 : 1Utt +1Uy +1Uzz + UyUy
+   92 : 1Utt +1Uy +1Uzz + UUy
+   93 : 1Utt +1Uy +1Uzz + UU
+   94 : 1Utt +1Uy +1Uyy
+   95 : 1Utt +1Uy +1Uyy + UyyUyy
+   96 : 1Utt +1Uy +1Uyy + UyUyy
+   97 : 1Utt +1Uy +1Uyy + UyUy
+   98 : 1Utt +1Uy +1Uyy + UUyy
+   99 : 1Utt +1Uy +1Uyy + UUy
+  100 : 1Utt +1Uy +1Uyy + UU
+  101 : 1Utt +1Uy +1Uyy +1Uzz
+  102 : 1Utt +1Uy +1Uyy +1Uzz + UyyUyy
+  103 : 1Utt +1Uy +1Uyy +1Uzz + UyUyy
+  104 : 1Utt +1Uy +1Uyy +1Uzz + UyUy
+  105 : 1Utt +1Uy +1Uyy +1Uzz + UUyy
+  106 : 1Utt +1Uy +1Uyy +1Uzz + UUy
+  107 : 1Utt +1Uy +1Uyy +1Uzz + UU
+  108 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz
+  109 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyzUyz
+  110 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyyUyz
+  111 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyyUyy
+  112 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyUyz
+  113 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyUyy
+  114 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UyUy
+  115 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UUyz
+  116 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UUyy
+  117 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UUy
+  118 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + UU
+  119 : 1Utt +1Uy +1Uxx
+  120 : 1Utt +1Uy +1Uxx + UyUy
+  121 : 1Utt +1Uy +1Uxx + UUy
+  122 : 1Utt +1Uy +1Uxx + UU
+  123 : 1Utt +1Uy +1Uxx +1Uzz
+  124 : 1Utt +1Uy +1Uxx +1Uzz + UyUy
+  125 : 1Utt +1Uy +1Uxx +1Uzz + UUy
+  126 : 1Utt +1Uy +1Uxx +1Uzz + UU
+  127 : 1Utt +1Uy +1Uxx +1Uzz +1Uxz
+  128 : 1Utt +1Uy +1Uxx +1Uzz +1Uxz + UyUy
+  129 : 1Utt +1Uy +1Uxx +1Uzz +1Uxz + UUy
+  130 : 1Utt +1Uy +1Uxx +1Uzz +1Uxz + UU
+  131 : 1Utt +1Uy +1Uxx +1Uyy
+  132 : 1Utt +1Uy +1Uxx +1Uyy + UyyUyy
+  133 : 1Utt +1Uy +1Uxx +1Uyy + UyUyy
+  134 : 1Utt +1Uy +1Uxx +1Uyy + UyUy
+  135 : 1Utt +1Uy +1Uxx +1Uyy + UUyy
+  136 : 1Utt +1Uy +1Uxx +1Uyy + UUy
+  137 : 1Utt +1Uy +1Uxx +1Uyy + UU
+  138 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy
+  139 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UyyUyy
+  140 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UyUyy
+  141 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UyUy
+  142 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UUyy
+  143 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UUy
+  144 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + UU
+  145 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz
+  146 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UyyUyy
+  147 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UyUyy
+  148 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UyUy
+  149 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UUyy
+  150 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UUy
+  151 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + UU
+  152 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz +1Uyz
+  153 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz +1Uxz
+  154 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz +1Uxy
+  155 : 1Utt +1Uy +1Uz +1Uzz
+  156 : 1Utt +1Uy +1Uz +1Uzz + UzzUzz
+  157 : 1Utt +1Uy +1Uz +1Uzz + UzUzz
+  158 : 1Utt +1Uy +1Uz +1Uzz + UzUz
+  159 : 1Utt +1Uy +1Uz +1Uzz + UyUzz
+  160 : 1Utt +1Uy +1Uz +1Uzz + UyUz
+  161 : 1Utt +1Uy +1Uz +1Uzz + UyUy
+  162 : 1Utt +1Uy +1Uz +1Uzz + UUzz
+  163 : 1Utt +1Uy +1Uz +1Uzz + UUz
+  164 : 1Utt +1Uy +1Uz +1Uzz + UUy
+  165 : 1Utt +1Uy +1Uz +1Uzz + UU
+  166 : 1Utt +1Uy +1Uz +1Uyy
+  167 : 1Utt +1Uy +1Uz +1Uyy + UyyUyy
+  168 : 1Utt +1Uy +1Uz +1Uyy + UzUyy
+  169 : 1Utt +1Uy +1Uz +1Uyy + UzUz
+  170 : 1Utt +1Uy +1Uz +1Uyy + UyUyy
+  171 : 1Utt +1Uy +1Uz +1Uyy + UyUz
+  172 : 1Utt +1Uy +1Uz +1Uyy + UyUy
+  173 : 1Utt +1Uy +1Uz +1Uyy + UUyy
+  174 : 1Utt +1Uy +1Uz +1Uyy + UUz
+  175 : 1Utt +1Uy +1Uz +1Uyy + UUy
+  176 : 1Utt +1Uy +1Uz +1Uyy + UU
+  177 : 1Utt +1Uy +1Uz +1Uyy +1Uzz
+  178 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UzzUzz
+  179 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyyUzz
+  180 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyyUyy
+  181 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UzUzz
+  182 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UzUyy
+  183 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UzUz
+  184 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyUzz
+  185 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyUyy
+  186 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyUz
+  187 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UyUy
+  188 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UUzz
+  189 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UUyy
+  190 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UUz
+  191 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UUy
+  192 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + UU
+  193 : 1Utt +1Uy +1Uz +1Uyy +1Uzz +1Uyz
+  194 : 1Utt +1Uy +1Uz +1Uxx
+  195 : 1Utt +1Uy +1Uz +1Uxx + UzUz
+  196 : 1Utt +1Uy +1Uz +1Uxx + UyUz
+  197 : 1Utt +1Uy +1Uz +1Uxx + UyUy
+  198 : 1Utt +1Uy +1Uz +1Uxx + UUz
+  199 : 1Utt +1Uy +1Uz +1Uxx + UUy
+  200 : 1Utt +1Uy +1Uz +1Uxx + UU
+  201 : 1Utt +1Uy +1Uz +1Uxx +1Uzz
+  202 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UzzUzz
+  203 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UzUzz
+  204 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UzUz
+  205 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UyUzz
+  206 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UyUz
+  207 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UyUy
+  208 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UUzz
+  209 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UUz
+  210 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UUy
+  211 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + UU
+  212 : 1Utt +1Uy +1Uz +1Uxx +1Uzz +1Uxz
+  213 : 1Utt +1Uy +1Uz +1Uxx +1Uyy
+  214 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UyyUyy
+  215 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UzUyy
+  216 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UzUz
+  217 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UyUyy
+  218 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UyUz
+  219 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UyUy
+  220 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UUyy
+  221 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UUz
+  222 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UUy
+  223 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + UU
+  224 : 1Utt +1Uy +1Uz +1Uxx +1Uyy +1Uxy
+  225 : 1Utt +1Uy +1Uz +1Uxx +1Uyy +1Uzz
+  226 : 1Utt +1Ux +1Uzz
+  227 : 1Utt +1Ux +1Uzz + UxUx
+  228 : 1Utt +1Ux +1Uzz + UUx
+  229 : 1Utt +1Ux +1Uzz + UU
+  230 : 1Utt +1Ux +1Uyy
+  231 : 1Utt +1Ux +1Uyy + UxUx
+  232 : 1Utt +1Ux +1Uyy + UUx
+  233 : 1Utt +1Ux +1Uyy + UU
+  234 : 1Utt +1Ux +1Uyy +1Uzz
+  235 : 1Utt +1Ux +1Uyy +1Uzz + UxUx
+  236 : 1Utt +1Ux +1Uyy +1Uzz + UUx
+  237 : 1Utt +1Ux +1Uyy +1Uzz + UU
+  238 : 1Utt +1Ux +1Uyy +1Uzz +1Uyz
+  239 : 1Utt +1Ux +1Uyy +1Uzz +1Uyz + UxUx
+  240 : 1Utt +1Ux +1Uyy +1Uzz +1Uyz + UUx
+  241 : 1Utt +1Ux +1Uyy +1Uzz +1Uyz + UU
+  242 : 1Utt +1Ux +1Uxx
+  243 : 1Utt +1Ux +1Uxx + UxxUxx
+  244 : 1Utt +1Ux +1Uxx + UxUxx
+  245 : 1Utt +1Ux +1Uxx + UxUx
+  246 : 1Utt +1Ux +1Uxx + UUxx
+  247 : 1Utt +1Ux +1Uxx + UUx
+  248 : 1Utt +1Ux +1Uxx + UU
+  249 : 1Utt +1Ux +1Uxx +1Uzz
+  250 : 1Utt +1Ux +1Uxx +1Uzz + UxxUxx
+  251 : 1Utt +1Ux +1Uxx +1Uzz + UxUxx
+  252 : 1Utt +1Ux +1Uxx +1Uzz + UxUx
+  253 : 1Utt +1Ux +1Uxx +1Uzz + UUxx
+  254 : 1Utt +1Ux +1Uxx +1Uzz + UUx
+  255 : 1Utt +1Ux +1Uxx +1Uzz + UU
+  256 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz
+  257 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxzUxz
+  258 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxxUxz
+  259 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxxUxx
+  260 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxUxz
+  261 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxUxx
+  262 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UxUx
+  263 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UUxz
+  264 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UUxx
+  265 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UUx
+  266 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + UU
+  267 : 1Utt +1Ux +1Uxx +1Uyy
+  268 : 1Utt +1Ux +1Uxx +1Uyy + UxxUxx
+  269 : 1Utt +1Ux +1Uxx +1Uyy + UxUxx
+  270 : 1Utt +1Ux +1Uxx +1Uyy + UxUx
+  271 : 1Utt +1Ux +1Uxx +1Uyy + UUxx
+  272 : 1Utt +1Ux +1Uxx +1Uyy + UUx
+  273 : 1Utt +1Ux +1Uxx +1Uyy + UU
+  274 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy
+  275 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxyUxy
+  276 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxxUxy
+  277 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxxUxx
+  278 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxUxy
+  279 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxUxx
+  280 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UxUx
+  281 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UUxy
+  282 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UUxx
+  283 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UUx
+  284 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + UU
+  285 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz
+  286 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UxxUxx
+  287 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UxUxx
+  288 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UxUx
+  289 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UUxx
+  290 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UUx
+  291 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + UU
+  292 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz +1Uyz
+  293 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz +1Uxz
+  294 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz +1Uxy
+  295 : 1Utt +1Ux +1Uz +1Uzz
+  296 : 1Utt +1Ux +1Uz +1Uzz + UzzUzz
+  297 : 1Utt +1Ux +1Uz +1Uzz + UzUzz
+  298 : 1Utt +1Ux +1Uz +1Uzz + UzUz
+  299 : 1Utt +1Ux +1Uz +1Uzz + UxUzz
+  300 : 1Utt +1Ux +1Uz +1Uzz + UxUz
+  301 : 1Utt +1Ux +1Uz +1Uzz + UxUx
+  302 : 1Utt +1Ux +1Uz +1Uzz + UUzz
+  303 : 1Utt +1Ux +1Uz +1Uzz + UUz
+  304 : 1Utt +1Ux +1Uz +1Uzz + UUx
+  305 : 1Utt +1Ux +1Uz +1Uzz + UU
+  306 : 1Utt +1Ux +1Uz +1Uyy
+  307 : 1Utt +1Ux +1Uz +1Uyy + UzUz
+  308 : 1Utt +1Ux +1Uz +1Uyy + UxUz
+  309 : 1Utt +1Ux +1Uz +1Uyy + UxUx
+  310 : 1Utt +1Ux +1Uz +1Uyy + UUz
+  311 : 1Utt +1Ux +1Uz +1Uyy + UUx
+  312 : 1Utt +1Ux +1Uz +1Uyy + UU
+  313 : 1Utt +1Ux +1Uz +1Uyy +1Uzz
+  314 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UzzUzz
+  315 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UzUzz
+  316 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UzUz
+  317 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UxUzz
+  318 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UxUz
+  319 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UxUx
+  320 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UUzz
+  321 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UUz
+  322 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UUx
+  323 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + UU
+  324 : 1Utt +1Ux +1Uz +1Uyy +1Uzz +1Uyz
+  325 : 1Utt +1Ux +1Uz +1Uxx
+  326 : 1Utt +1Ux +1Uz +1Uxx + UxxUxx
+  327 : 1Utt +1Ux +1Uz +1Uxx + UzUxx
+  328 : 1Utt +1Ux +1Uz +1Uxx + UzUz
+  329 : 1Utt +1Ux +1Uz +1Uxx + UxUxx
+  330 : 1Utt +1Ux +1Uz +1Uxx + UxUz
+  331 : 1Utt +1Ux +1Uz +1Uxx + UxUx
+  332 : 1Utt +1Ux +1Uz +1Uxx + UUxx
+  333 : 1Utt +1Ux +1Uz +1Uxx + UUz
+  334 : 1Utt +1Ux +1Uz +1Uxx + UUx
+  335 : 1Utt +1Ux +1Uz +1Uxx + UU
+  336 : 1Utt +1Ux +1Uz +1Uxx +1Uzz
+  337 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UzzUzz
+  338 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxxUzz
+  339 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxxUxx
+  340 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UzUzz
+  341 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UzUxx
+  342 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UzUz
+  343 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxUzz
+  344 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxUxx
+  345 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxUz
+  346 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UxUx
+  347 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UUzz
+  348 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UUxx
+  349 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UUz
+  350 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UUx
+  351 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + UU
+  352 : 1Utt +1Ux +1Uz +1Uxx +1Uzz +1Uxz
+  353 : 1Utt +1Ux +1Uz +1Uxx +1Uyy
+  354 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UxxUxx
+  355 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UzUxx
+  356 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UzUz
+  357 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UxUxx
+  358 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UxUz
+  359 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UxUx
+  360 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UUxx
+  361 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UUz
+  362 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UUx
+  363 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + UU
+  364 : 1Utt +1Ux +1Uz +1Uxx +1Uyy +1Uxy
+  365 : 1Utt +1Ux +1Uz +1Uxx +1Uyy +1Uzz
+  366 : 1Utt +1Ux +1Uy +1Uzz
+  367 : 1Utt +1Ux +1Uy +1Uzz + UyUy
+  368 : 1Utt +1Ux +1Uy +1Uzz + UxUy
+  369 : 1Utt +1Ux +1Uy +1Uzz + UxUx
+  370 : 1Utt +1Ux +1Uy +1Uzz + UUy
+  371 : 1Utt +1Ux +1Uy +1Uzz + UUx
+  372 : 1Utt +1Ux +1Uy +1Uzz + UU
+  373 : 1Utt +1Ux +1Uy +1Uyy
+  374 : 1Utt +1Ux +1Uy +1Uyy + UyyUyy
+  375 : 1Utt +1Ux +1Uy +1Uyy + UyUyy
+  376 : 1Utt +1Ux +1Uy +1Uyy + UyUy
+  377 : 1Utt +1Ux +1Uy +1Uyy + UxUyy
+  378 : 1Utt +1Ux +1Uy +1Uyy + UxUy
+  379 : 1Utt +1Ux +1Uy +1Uyy + UxUx
+  380 : 1Utt +1Ux +1Uy +1Uyy + UUyy
+  381 : 1Utt +1Ux +1Uy +1Uyy + UUy
+  382 : 1Utt +1Ux +1Uy +1Uyy + UUx
+  383 : 1Utt +1Ux +1Uy +1Uyy + UU
+  384 : 1Utt +1Ux +1Uy +1Uyy +1Uzz
+  385 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UyyUyy
+  386 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UyUyy
+  387 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UyUy
+  388 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UxUyy
+  389 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UxUy
+  390 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UxUx
+  391 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UUyy
+  392 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UUy
+  393 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UUx
+  394 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + UU
+  395 : 1Utt +1Ux +1Uy +1Uyy +1Uzz +1Uyz
+  396 : 1Utt +1Ux +1Uy +1Uxx
+  397 : 1Utt +1Ux +1Uy +1Uxx + UxxUxx
+  398 : 1Utt +1Ux +1Uy +1Uxx + UyUxx
+  399 : 1Utt +1Ux +1Uy +1Uxx + UyUy
+  400 : 1Utt +1Ux +1Uy +1Uxx + UxUxx
+  401 : 1Utt +1Ux +1Uy +1Uxx + UxUy
+  402 : 1Utt +1Ux +1Uy +1Uxx + UxUx
+  403 : 1Utt +1Ux +1Uy +1Uxx + UUxx
+  404 : 1Utt +1Ux +1Uy +1Uxx + UUy
+  405 : 1Utt +1Ux +1Uy +1Uxx + UUx
+  406 : 1Utt +1Ux +1Uy +1Uxx + UU
+  407 : 1Utt +1Ux +1Uy +1Uxx +1Uzz
+  408 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UxxUxx
+  409 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UyUxx
+  410 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UyUy
+  411 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UxUxx
+  412 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UxUy
+  413 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UxUx
+  414 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UUxx
+  415 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UUy
+  416 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UUx
+  417 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + UU
+  418 : 1Utt +1Ux +1Uy +1Uxx +1Uzz +1Uxz
+  419 : 1Utt +1Ux +1Uy +1Uxx +1Uyy
+  420 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UyyUyy
+  421 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxxUyy
+  422 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxxUxx
+  423 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UyUyy
+  424 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UyUxx
+  425 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UyUy
+  426 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxUyy
+  427 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxUxx
+  428 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxUy
+  429 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UxUx
+  430 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UUyy
+  431 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UUxx
+  432 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UUy
+  433 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UUx
+  434 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + UU
+  435 : 1Utt +1Ux +1Uy +1Uxx +1Uyy +1Uxy
+  436 : 1Utt +1Ux +1Uy +1Uxx +1Uyy +1Uzz
+  437 : 1Utt +1Ux +1Uy +1Uz +1Uzz
+  438 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UzzUzz
+  439 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UzUzz
+  440 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UzUz
+  441 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UyUzz
+  442 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UyUz
+  443 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UyUy
+  444 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UxUzz
+  445 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UxUz
+  446 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UxUy
+  447 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UxUx
+  448 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UUzz
+  449 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UUz
+  450 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UUy
+  451 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UUx
+  452 : 1Utt +1Ux +1Uy +1Uz +1Uzz + UU
+  453 : 1Utt +1Ux +1Uy +1Uz +1Uyy
+  454 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UyyUyy
+  455 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UzUyy
+  456 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UzUz
+  457 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UyUyy
+  458 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UyUz
+  459 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UyUy
+  460 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UxUyy
+  461 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UxUz
+  462 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UxUy
+  463 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UxUx
+  464 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UUyy
+  465 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UUz
+  466 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UUy
+  467 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UUx
+  468 : 1Utt +1Ux +1Uy +1Uz +1Uyy + UU
+  469 : 1Utt +1Ux +1Uy +1Uz +1Uyy +1Uzz
+  470 : 1Utt +1Ux +1Uy +1Uz +1Uxx
+  471 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UxxUxx
+  472 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UzUxx
+  473 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UzUz
+  474 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UyUxx
+  475 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UyUz
+  476 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UyUy
+  477 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UxUxx
+  478 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UxUz
+  479 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UxUy
+  480 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UxUx
+  481 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UUxx
+  482 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UUz
+  483 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UUy
+  484 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UUx
+  485 : 1Utt +1Ux +1Uy +1Uz +1Uxx + UU
+  486 : 1Utt +1Ux +1Uy +1Uz +1Uxx +1Uzz
+  487 : 1Utt +1Ux +1Uy +1Uz +1Uxx +1Uyy
+  488 : 1Utt +1Uzz + U
+  489 : 1Utt +1Uzz + U + UU
+  490 : 1Utt +1Uyy + U
+  491 : 1Utt +1Uyy + U + UU
+  492 : 1Utt +1Uyy +1Uzz + U
+  493 : 1Utt +1Uyy +1Uzz + U + UU
+  494 : 1Utt +1Uyy +1Uzz +1Uyz + U
+  495 : 1Utt +1Uyy +1Uzz +1Uyz + U + UU
+  496 : 1Utt +1Uxx + U
+  497 : 1Utt +1Uxx + U + UU
+  498 : 1Utt +1Uxx +1Uzz + U
+  499 : 1Utt +1Uxx +1Uzz + U + UU
+  500 : 1Utt +1Uxx +1Uzz +1Uxz + U
+  501 : 1Utt +1Uxx +1Uzz +1Uxz + U + UU
+  502 : 1Utt +1Uxx +1Uyy + U
+  503 : 1Utt +1Uxx +1Uyy + U + UU
+  504 : 1Utt +1Uxx +1Uyy +1Uxy + U
+  505 : 1Utt +1Uxx +1Uyy +1Uxy + U + UU
+  506 : 1Utt +1Uxx +1Uyy +1Uzz + U
+  507 : 1Utt +1Uxx +1Uyy +1Uzz + U + UU
+  508 : 1Utt +1Uxx +1Uyy +1Uzz +1Uyz + U
+  509 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxz + U
+  510 : 1Utt +1Uxx +1Uyy +1Uzz +1Uxy + U
+  511 : 1Utt +1Uz +1Uzz + U
+  512 : 1Utt +1Uz +1Uzz + U + UzzUzz
+  513 : 1Utt +1Uz +1Uzz + U + UzUzz
+  514 : 1Utt +1Uz +1Uzz + U + UzUz
+  515 : 1Utt +1Uz +1Uzz + U + UUzz
+  516 : 1Utt +1Uz +1Uzz + U + UUz
+  517 : 1Utt +1Uz +1Uzz + U + UU
+  518 : 1Utt +1Uz +1Uyy + U
+  519 : 1Utt +1Uz +1Uyy + U + UzUz
+  520 : 1Utt +1Uz +1Uyy + U + UUz
+  521 : 1Utt +1Uz +1Uyy + U + UU
+  522 : 1Utt +1Uz +1Uyy +1Uzz + U
+  523 : 1Utt +1Uz +1Uyy +1Uzz + U + UzzUzz
+  524 : 1Utt +1Uz +1Uyy +1Uzz + U + UzUzz
+  525 : 1Utt +1Uz +1Uyy +1Uzz + U + UzUz
+  526 : 1Utt +1Uz +1Uyy +1Uzz + U + UUzz
+  527 : 1Utt +1Uz +1Uyy +1Uzz + U + UUz
+  528 : 1Utt +1Uz +1Uyy +1Uzz + U + UU
+  529 : 1Utt +1Uz +1Uyy +1Uzz +1Uyz + U
+  530 : 1Utt +1Uz +1Uxx + U
+  531 : 1Utt +1Uz +1Uxx + U + UzUz
+  532 : 1Utt +1Uz +1Uxx + U + UUz
+  533 : 1Utt +1Uz +1Uxx + U + UU
+  534 : 1Utt +1Uz +1Uxx +1Uzz + U
+  535 : 1Utt +1Uz +1Uxx +1Uzz + U + UzzUzz
+  536 : 1Utt +1Uz +1Uxx +1Uzz + U + UzUzz
+  537 : 1Utt +1Uz +1Uxx +1Uzz + U + UzUz
+  538 : 1Utt +1Uz +1Uxx +1Uzz + U + UUzz
+  539 : 1Utt +1Uz +1Uxx +1Uzz + U + UUz
+  540 : 1Utt +1Uz +1Uxx +1Uzz + U + UU
+  541 : 1Utt +1Uz +1Uxx +1Uzz +1Uxz + U
+  542 : 1Utt +1Uz +1Uxx +1Uyy + U
+  543 : 1Utt +1Uz +1Uxx +1Uyy + U + UzUz
+  544 : 1Utt +1Uz +1Uxx +1Uyy + U + UUz
+  545 : 1Utt +1Uz +1Uxx +1Uyy + U + UU
+  546 : 1Utt +1Uz +1Uxx +1Uyy +1Uxy + U
+  547 : 1Utt +1Uz +1Uxx +1Uyy +1Uzz + U
+  548 : 1Utt +1Uy +1Uzz + U
+  549 : 1Utt +1Uy +1Uzz + U + UyUy
+  550 : 1Utt +1Uy +1Uzz + U + UUy
+  551 : 1Utt +1Uy +1Uzz + U + UU
+  552 : 1Utt +1Uy +1Uyy + U
+  553 : 1Utt +1Uy +1Uyy + U + UyyUyy
+  554 : 1Utt +1Uy +1Uyy + U + UyUyy
+  555 : 1Utt +1Uy +1Uyy + U + UyUy
+  556 : 1Utt +1Uy +1Uyy + U + UUyy
+  557 : 1Utt +1Uy +1Uyy + U + UUy
+  558 : 1Utt +1Uy +1Uyy + U + UU
+  559 : 1Utt +1Uy +1Uyy +1Uzz + U
+  560 : 1Utt +1Uy +1Uyy +1Uzz + U + UyyUyy
+  561 : 1Utt +1Uy +1Uyy +1Uzz + U + UyUyy
+  562 : 1Utt +1Uy +1Uyy +1Uzz + U + UyUy
+  563 : 1Utt +1Uy +1Uyy +1Uzz + U + UUyy
+  564 : 1Utt +1Uy +1Uyy +1Uzz + U + UUy
+  565 : 1Utt +1Uy +1Uyy +1Uzz + U + UU
+  566 : 1Utt +1Uy +1Uyy +1Uzz +1Uyz + U
+  567 : 1Utt +1Uy +1Uxx + U
+  568 : 1Utt +1Uy +1Uxx + U + UyUy
+  569 : 1Utt +1Uy +1Uxx + U + UUy
+  570 : 1Utt +1Uy +1Uxx + U + UU
+  571 : 1Utt +1Uy +1Uxx +1Uzz + U
+  572 : 1Utt +1Uy +1Uxx +1Uzz + U + UyUy
+  573 : 1Utt +1Uy +1Uxx +1Uzz + U + UUy
+  574 : 1Utt +1Uy +1Uxx +1Uzz + U + UU
+  575 : 1Utt +1Uy +1Uxx +1Uzz +1Uxz + U
+  576 : 1Utt +1Uy +1Uxx +1Uyy + U
+  577 : 1Utt +1Uy +1Uxx +1Uyy + U + UyyUyy
+  578 : 1Utt +1Uy +1Uxx +1Uyy + U + UyUyy
+  579 : 1Utt +1Uy +1Uxx +1Uyy + U + UyUy
+  580 : 1Utt +1Uy +1Uxx +1Uyy + U + UUyy
+  581 : 1Utt +1Uy +1Uxx +1Uyy + U + UUy
+  582 : 1Utt +1Uy +1Uxx +1Uyy + U + UU
+  583 : 1Utt +1Uy +1Uxx +1Uyy +1Uxy + U
+  584 : 1Utt +1Uy +1Uxx +1Uyy +1Uzz + U
+  585 : 1Utt +1Uy +1Uz +1Uzz + U
+  586 : 1Utt +1Uy +1Uz +1Uzz + U + UzzUzz
+  587 : 1Utt +1Uy +1Uz +1Uzz + U + UzUzz
+  588 : 1Utt +1Uy +1Uz +1Uzz + U + UzUz
+  589 : 1Utt +1Uy +1Uz +1Uzz + U + UyUzz
+  590 : 1Utt +1Uy +1Uz +1Uzz + U + UyUz
+  591 : 1Utt +1Uy +1Uz +1Uzz + U + UyUy
+  592 : 1Utt +1Uy +1Uz +1Uzz + U + UUzz
+  593 : 1Utt +1Uy +1Uz +1Uzz + U + UUz
+  594 : 1Utt +1Uy +1Uz +1Uzz + U + UUy
+  595 : 1Utt +1Uy +1Uz +1Uzz + U + UU
+  596 : 1Utt +1Uy +1Uz +1Uyy + U
+  597 : 1Utt +1Uy +1Uz +1Uyy + U + UyyUyy
+  598 : 1Utt +1Uy +1Uz +1Uyy + U + UzUyy
+  599 : 1Utt +1Uy +1Uz +1Uyy + U + UzUz
+  600 : 1Utt +1Uy +1Uz +1Uyy + U + UyUyy
+  601 : 1Utt +1Uy +1Uz +1Uyy + U + UyUz
+  602 : 1Utt +1Uy +1Uz +1Uyy + U + UyUy
+  603 : 1Utt +1Uy +1Uz +1Uyy + U + UUyy
+  604 : 1Utt +1Uy +1Uz +1Uyy + U + UUz
+  605 : 1Utt +1Uy +1Uz +1Uyy + U + UUy
+  606 : 1Utt +1Uy +1Uz +1Uyy + U + UU
+  607 : 1Utt +1Uy +1Uz +1Uyy +1Uzz + U
+  608 : 1Utt +1Uy +1Uz +1Uxx + U
+  609 : 1Utt +1Uy +1Uz +1Uxx + U + UzUz
+  610 : 1Utt +1Uy +1Uz +1Uxx + U + UyUz
+  611 : 1Utt +1Uy +1Uz +1Uxx + U + UyUy
+  612 : 1Utt +1Uy +1Uz +1Uxx + U + UUz
+  613 : 1Utt +1Uy +1Uz +1Uxx + U + UUy
+  614 : 1Utt +1Uy +1Uz +1Uxx + U + UU
+  615 : 1Utt +1Uy +1Uz +1Uxx +1Uzz + U
+  616 : 1Utt +1Uy +1Uz +1Uxx +1Uyy + U
+  617 : 1Utt +1Ux +1Uzz + U
+  618 : 1Utt +1Ux +1Uzz + U + UxUx
+  619 : 1Utt +1Ux +1Uzz + U + UUx
+  620 : 1Utt +1Ux +1Uzz + U + UU
+  621 : 1Utt +1Ux +1Uyy + U
+  622 : 1Utt +1Ux +1Uyy + U + UxUx
+  623 : 1Utt +1Ux +1Uyy + U + UUx
+  624 : 1Utt +1Ux +1Uyy + U + UU
+  625 : 1Utt +1Ux +1Uyy +1Uzz + U
+  626 : 1Utt +1Ux +1Uyy +1Uzz + U + UxUx
+  627 : 1Utt +1Ux +1Uyy +1Uzz + U + UUx
+  628 : 1Utt +1Ux +1Uyy +1Uzz + U + UU
+  629 : 1Utt +1Ux +1Uyy +1Uzz +1Uyz + U
+  630 : 1Utt +1Ux +1Uxx + U
+  631 : 1Utt +1Ux +1Uxx + U + UxxUxx
+  632 : 1Utt +1Ux +1Uxx + U + UxUxx
+  633 : 1Utt +1Ux +1Uxx + U + UxUx
+  634 : 1Utt +1Ux +1Uxx + U + UUxx
+  635 : 1Utt +1Ux +1Uxx + U + UUx
+  636 : 1Utt +1Ux +1Uxx + U + UU
+  637 : 1Utt +1Ux +1Uxx +1Uzz + U
+  638 : 1Utt +1Ux +1Uxx +1Uzz + U + UxxUxx
+  639 : 1Utt +1Ux +1Uxx +1Uzz + U + UxUxx
+  640 : 1Utt +1Ux +1Uxx +1Uzz + U + UxUx
+  641 : 1Utt +1Ux +1Uxx +1Uzz + U + UUxx
+  642 : 1Utt +1Ux +1Uxx +1Uzz + U + UUx
+  643 : 1Utt +1Ux +1Uxx +1Uzz + U + UU
+  644 : 1Utt +1Ux +1Uxx +1Uzz +1Uxz + U
+  645 : 1Utt +1Ux +1Uxx +1Uyy + U
+  646 : 1Utt +1Ux +1Uxx +1Uyy + U + UxxUxx
+  647 : 1Utt +1Ux +1Uxx +1Uyy + U + UxUxx
+  648 : 1Utt +1Ux +1Uxx +1Uyy + U + UxUx
+  649 : 1Utt +1Ux +1Uxx +1Uyy + U + UUxx
+  650 : 1Utt +1Ux +1Uxx +1Uyy + U + UUx
+  651 : 1Utt +1Ux +1Uxx +1Uyy + U + UU
+  652 : 1Utt +1Ux +1Uxx +1Uyy +1Uxy + U
+  653 : 1Utt +1Ux +1Uxx +1Uyy +1Uzz + U
+  654 : 1Utt +1Ux +1Uz +1Uzz + U
+  655 : 1Utt +1Ux +1Uz +1Uzz + U + UzzUzz
+  656 : 1Utt +1Ux +1Uz +1Uzz + U + UzUzz
+  657 : 1Utt +1Ux +1Uz +1Uzz + U + UzUz
+  658 : 1Utt +1Ux +1Uz +1Uzz + U + UxUzz
+  659 : 1Utt +1Ux +1Uz +1Uzz + U + UxUz
+  660 : 1Utt +1Ux +1Uz +1Uzz + U + UxUx
+  661 : 1Utt +1Ux +1Uz +1Uzz + U + UUzz
+  662 : 1Utt +1Ux +1Uz +1Uzz + U + UUz
+  663 : 1Utt +1Ux +1Uz +1Uzz + U + UUx
+  664 : 1Utt +1Ux +1Uz +1Uzz + U + UU
+  665 : 1Utt +1Ux +1Uz +1Uyy + U
+  666 : 1Utt +1Ux +1Uz +1Uyy + U + UzUz
+  667 : 1Utt +1Ux +1Uz +1Uyy + U + UxUz
+  668 : 1Utt +1Ux +1Uz +1Uyy + U + UxUx
+  669 : 1Utt +1Ux +1Uz +1Uyy + U + UUz
+  670 : 1Utt +1Ux +1Uz +1Uyy + U + UUx
+  671 : 1Utt +1Ux +1Uz +1Uyy + U + UU
+  672 : 1Utt +1Ux +1Uz +1Uyy +1Uzz + U
+  673 : 1Utt +1Ux +1Uz +1Uxx + U
+  674 : 1Utt +1Ux +1Uz +1Uxx + U + UxxUxx
+  675 : 1Utt +1Ux +1Uz +1Uxx + U + UzUxx
+  676 : 1Utt +1Ux +1Uz +1Uxx + U + UzUz
+  677 : 1Utt +1Ux +1Uz +1Uxx + U + UxUxx
+  678 : 1Utt +1Ux +1Uz +1Uxx + U + UxUz
+  679 : 1Utt +1Ux +1Uz +1Uxx + U + UxUx
+  680 : 1Utt +1Ux +1Uz +1Uxx + U + UUxx
+  681 : 1Utt +1Ux +1Uz +1Uxx + U + UUz
+  682 : 1Utt +1Ux +1Uz +1Uxx + U + UUx
+  683 : 1Utt +1Ux +1Uz +1Uxx + U + UU
+  684 : 1Utt +1Ux +1Uz +1Uxx +1Uzz + U
+  685 : 1Utt +1Ux +1Uz +1Uxx +1Uyy + U
+  686 : 1Utt +1Ux +1Uy +1Uzz + U
+  687 : 1Utt +1Ux +1Uy +1Uzz + U + UyUy
+  688 : 1Utt +1Ux +1Uy +1Uzz + U + UxUy
+  689 : 1Utt +1Ux +1Uy +1Uzz + U + UxUx
+  690 : 1Utt +1Ux +1Uy +1Uzz + U + UUy
+  691 : 1Utt +1Ux +1Uy +1Uzz + U + UUx
+  692 : 1Utt +1Ux +1Uy +1Uzz + U + UU
+  693 : 1Utt +1Ux +1Uy +1Uyy + U
+  694 : 1Utt +1Ux +1Uy +1Uyy + U + UyyUyy
+  695 : 1Utt +1Ux +1Uy +1Uyy + U + UyUyy
+  696 : 1Utt +1Ux +1Uy +1Uyy + U + UyUy
+  697 : 1Utt +1Ux +1Uy +1Uyy + U + UxUyy
+  698 : 1Utt +1Ux +1Uy +1Uyy + U + UxUy
+  699 : 1Utt +1Ux +1Uy +1Uyy + U + UxUx
+  700 : 1Utt +1Ux +1Uy +1Uyy + U + UUyy
+  701 : 1Utt +1Ux +1Uy +1Uyy + U + UUy
+  702 : 1Utt +1Ux +1Uy +1Uyy + U + UUx
+  703 : 1Utt +1Ux +1Uy +1Uyy + U + UU
+  704 : 1Utt +1Ux +1Uy +1Uyy +1Uzz + U
+  705 : 1Utt +1Ux +1Uy +1Uxx + U
+  706 : 1Utt +1Ux +1Uy +1Uxx + U + UxxUxx
+  707 : 1Utt +1Ux +1Uy +1Uxx + U + UyUxx
+  708 : 1Utt +1Ux +1Uy +1Uxx + U + UyUy
+  709 : 1Utt +1Ux +1Uy +1Uxx + U + UxUxx
+  710 : 1Utt +1Ux +1Uy +1Uxx + U + UxUy
+  711 : 1Utt +1Ux +1Uy +1Uxx + U + UxUx
+  712 : 1Utt +1Ux +1Uy +1Uxx + U + UUxx
+  713 : 1Utt +1Ux +1Uy +1Uxx + U + UUy
+  714 : 1Utt +1Ux +1Uy +1Uxx + U + UUx
+  715 : 1Utt +1Ux +1Uy +1Uxx + U + UU
+  716 : 1Utt +1Ux +1Uy +1Uxx +1Uzz + U
+  717 : 1Utt +1Ux +1Uy +1Uxx +1Uyy + U
+  718 : 1Utt +1Ux +1Uy +1Uz +1Uzz + U
+  719 : 1Utt +1Ux +1Uy +1Uz +1Uyy + U
+  720 : 1Utt +1Ux +1Uy +1Uz +1Uxx + U
+
+
+=====================================================
+FAMILY: first_order_time   (count = 88)
+=====================================================
+
+    0 : 1Uz + Ut
+    1 : 1Uz + Ut + UzUz
+    2 : 1Uz + Ut + UUz
+    3 : 1Uz + Ut + UU
+    4 : 1Uy + Ut
+    5 : 1Uy + Ut + UyUy
+    6 : 1Uy + Ut + UUy
+    7 : 1Uy + Ut + UU
+    8 : 1Uy +1Uz + Ut
+    9 : 1Uy +1Uz + Ut + UzUz
+   10 : 1Uy +1Uz + Ut + UyUz
+   11 : 1Uy +1Uz + Ut + UyUy
+   12 : 1Uy +1Uz + Ut + UUz
+   13 : 1Uy +1Uz + Ut + UUy
+   14 : 1Uy +1Uz + Ut + UU
+   15 : 1Ux + Ut
+   16 : 1Ux + Ut + UxUx
+   17 : 1Ux + Ut + UUx
+   18 : 1Ux + Ut + UU
+   19 : 1Ux +1Uz + Ut
+   20 : 1Ux +1Uz + Ut + UzUz
+   21 : 1Ux +1Uz + Ut + UxUz
+   22 : 1Ux +1Uz + Ut + UxUx
+   23 : 1Ux +1Uz + Ut + UUz
+   24 : 1Ux +1Uz + Ut + UUx
+   25 : 1Ux +1Uz + Ut + UU
+   26 : 1Ux +1Uy + Ut
+   27 : 1Ux +1Uy + Ut + UyUy
+   28 : 1Ux +1Uy + Ut + UxUy
+   29 : 1Ux +1Uy + Ut + UxUx
+   30 : 1Ux +1Uy + Ut + UUy
+   31 : 1Ux +1Uy + Ut + UUx
+   32 : 1Ux +1Uy + Ut + UU
+   33 : 1Ux +1Uy +1Uz + Ut
+   34 : 1Ux +1Uy +1Uz + Ut + UzUz
+   35 : 1Ux +1Uy +1Uz + Ut + UyUz
+   36 : 1Ux +1Uy +1Uz + Ut + UyUy
+   37 : 1Ux +1Uy +1Uz + Ut + UxUz
+   38 : 1Ux +1Uy +1Uz + Ut + UxUy
+   39 : 1Ux +1Uy +1Uz + Ut + UxUx
+   40 : 1Ux +1Uy +1Uz + Ut + UUz
+   41 : 1Ux +1Uy +1Uz + Ut + UUy
+   42 : 1Ux +1Uy +1Uz + Ut + UUx
+   43 : 1Ux +1Uy +1Uz + Ut + UU
+   44 : 1Uz + Ut + U
+   45 : 1Uz + Ut + U + UzUz
+   46 : 1Uz + Ut + U + UUz
+   47 : 1Uz + Ut + U + UU
+   48 : 1Uy + Ut + U
+   49 : 1Uy + Ut + U + UyUy
+   50 : 1Uy + Ut + U + UUy
+   51 : 1Uy + Ut + U + UU
+   52 : 1Uy +1Uz + Ut + U
+   53 : 1Uy +1Uz + Ut + U + UzUz
+   54 : 1Uy +1Uz + Ut + U + UyUz
+   55 : 1Uy +1Uz + Ut + U + UyUy
+   56 : 1Uy +1Uz + Ut + U + UUz
+   57 : 1Uy +1Uz + Ut + U + UUy
+   58 : 1Uy +1Uz + Ut + U + UU
+   59 : 1Ux + Ut + U
+   60 : 1Ux + Ut + U + UxUx
+   61 : 1Ux + Ut + U + UUx
+   62 : 1Ux + Ut + U + UU
+   63 : 1Ux +1Uz + Ut + U
+   64 : 1Ux +1Uz + Ut + U + UzUz
+   65 : 1Ux +1Uz + Ut + U + UxUz
+   66 : 1Ux +1Uz + Ut + U + UxUx
+   67 : 1Ux +1Uz + Ut + U + UUz
+   68 : 1Ux +1Uz + Ut + U + UUx
+   69 : 1Ux +1Uz + Ut + U + UU
+   70 : 1Ux +1Uy + Ut + U
+   71 : 1Ux +1Uy + Ut + U + UyUy
+   72 : 1Ux +1Uy + Ut + U + UxUy
+   73 : 1Ux +1Uy + Ut + U + UxUx
+   74 : 1Ux +1Uy + Ut + U + UUy
+   75 : 1Ux +1Uy + Ut + U + UUx
+   76 : 1Ux +1Uy + Ut + U + UU
+   77 : 1Ux +1Uy +1Uz + Ut + U
+   78 : 1Ux +1Uy +1Uz + Ut + U + UzUz
+   79 : 1Ux +1Uy +1Uz + Ut + U + UyUz
+   80 : 1Ux +1Uy +1Uz + Ut + U + UyUy
+   81 : 1Ux +1Uy +1Uz + Ut + U + UxUz
+   82 : 1Ux +1Uy +1Uz + Ut + U + UxUy
+   83 : 1Ux +1Uy +1Uz + Ut + U + UxUx
+   84 : 1Ux +1Uy +1Uz + Ut + U + UUz
+   85 : 1Ux +1Uy +1Uz + Ut + U + UUy
+   86 : 1Ux +1Uy +1Uz + Ut + U + UUx
+   87 : 1Ux +1Uy +1Uz + Ut + U + UU
+
+
+=====================================================
+FAMILY: first_order_steady   (count = 85)
+=====================================================
+
+    0 : 1Uz + UzUz
+    1 : 1Uz + UUz
+    2 : 1Uz + UU
+    3 : 1Uy + UyUy
+    4 : 1Uy + UUy
+    5 : 1Uy + UU
+    6 : 1Uy +1Uz
+    7 : 1Uy +1Uz + UzUz
+    8 : 1Uy +1Uz + UyUz
+    9 : 1Uy +1Uz + UyUy
+   10 : 1Uy +1Uz + UUz
+   11 : 1Uy +1Uz + UUy
+   12 : 1Uy +1Uz + UU
+   13 : 1Ux + UxUx
+   14 : 1Ux + UUx
+   15 : 1Ux + UU
+   16 : 1Ux +1Uz
+   17 : 1Ux +1Uz + UzUz
+   18 : 1Ux +1Uz + UxUz
+   19 : 1Ux +1Uz + UxUx
+   20 : 1Ux +1Uz + UUz
+   21 : 1Ux +1Uz + UUx
+   22 : 1Ux +1Uz + UU
+   23 : 1Ux +1Uy
+   24 : 1Ux +1Uy + UyUy
+   25 : 1Ux +1Uy + UxUy
+   26 : 1Ux +1Uy + UxUx
+   27 : 1Ux +1Uy + UUy
+   28 : 1Ux +1Uy + UUx
+   29 : 1Ux +1Uy + UU
+   30 : 1Ux +1Uy +1Uz
+   31 : 1Ux +1Uy +1Uz + UzUz
+   32 : 1Ux +1Uy +1Uz + UyUz
+   33 : 1Ux +1Uy +1Uz + UyUy
+   34 : 1Ux +1Uy +1Uz + UxUz
+   35 : 1Ux +1Uy +1Uz + UxUy
+   36 : 1Ux +1Uy +1Uz + UxUx
+   37 : 1Ux +1Uy +1Uz + UUz
+   38 : 1Ux +1Uy +1Uz + UUy
+   39 : 1Ux +1Uy +1Uz + UUx
+   40 : 1Ux +1Uy +1Uz + UU
+   41 : 1Uz + U
+   42 : 1Uz + U + UzUz
+   43 : 1Uz + U + UUz
+   44 : 1Uz + U + UU
+   45 : 1Uy + U
+   46 : 1Uy + U + UyUy
+   47 : 1Uy + U + UUy
+   48 : 1Uy + U + UU
+   49 : 1Uy +1Uz + U
+   50 : 1Uy +1Uz + U + UzUz
+   51 : 1Uy +1Uz + U + UyUz
+   52 : 1Uy +1Uz + U + UyUy
+   53 : 1Uy +1Uz + U + UUz
+   54 : 1Uy +1Uz + U + UUy
+   55 : 1Uy +1Uz + U + UU
+   56 : 1Ux + U
+   57 : 1Ux + U + UxUx
+   58 : 1Ux + U + UUx
+   59 : 1Ux + U + UU
+   60 : 1Ux +1Uz + U
+   61 : 1Ux +1Uz + U + UzUz
+   62 : 1Ux +1Uz + U + UxUz
+   63 : 1Ux +1Uz + U + UxUx
+   64 : 1Ux +1Uz + U + UUz
+   65 : 1Ux +1Uz + U + UUx
+   66 : 1Ux +1Uz + U + UU
+   67 : 1Ux +1Uy + U
+   68 : 1Ux +1Uy + U + UyUy
+   69 : 1Ux +1Uy + U + UxUy
+   70 : 1Ux +1Uy + U + UxUx
+   71 : 1Ux +1Uy + U + UUy
+   72 : 1Ux +1Uy + U + UUx
+   73 : 1Ux +1Uy + U + UU
+   74 : 1Ux +1Uy +1Uz + U
+   75 : 1Ux +1Uy +1Uz + U + UzUz
+   76 : 1Ux +1Uy +1Uz + U + UyUz
+   77 : 1Ux +1Uy +1Uz + U + UyUy
+   78 : 1Ux +1Uy +1Uz + U + UxUz
+   79 : 1Ux +1Uy +1Uz + U + UxUy
+   80 : 1Ux +1Uy +1Uz + U + UxUx
+   81 : 1Ux +1Uy +1Uz + U + UUz
+   82 : 1Ux +1Uy +1Uz + U + UUy
+   83 : 1Ux +1Uy +1Uz + U + UUx
+   84 : 1Ux +1Uy +1Uz + U + UU
+
+
